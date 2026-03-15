@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FSB Journal Ranking & Points Calculator</title>
+    <meta name="description"
+        content="Search academic journal rankings (ABDC, AJG) and calculate Farmer School of Business workload-policy scholarship points.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="logo-area">
+                    <div>
+                        <h1>Journal Rankings</h1>
+                        <p class="subtitle">Farmer School of Business — Workload Points Calculator</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Search Section -->
+            <section class="search-section" id="search-section">
+                <h2 class="section-title">Search Journals</h2>
+                <p class="section-desc">Type a journal name to find its rankings and FSB workload-policy points.</p>
+                <div class="search-wrapper">
+                    <div class="search-input-group">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="2" />
+                            <path d="M13 13l4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                        </svg>
+                        <input type="text" id="journal-search" class="search-input"
+                            placeholder="e.g. Academy of Management Journal" autocomplete="off"
+                            aria-label="Search for a journal">
+                        <button id="clear-search" class="clear-btn" title="Clear search" aria-label="Clear search"
+                            style="display:none;">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                <path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" />
+                            </svg>
+                        </button>
+                    </div>
+                    <div id="autocomplete-list" class="autocomplete-list" role="listbox"
+                        aria-label="Journal suggestions"></div>
+                </div>
+
+                <!-- Selected Journal Card -->
+                <div id="journal-card" class="journal-card hidden">
+                    <div class="card-header">
+                        <h3 id="card-title" class="card-title"></h3>
+                        <button id="add-to-list" class="add-btn" title="Add to working list">
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                <path d="M9 3v12M3 9h12" stroke="currentColor" stroke-width="2.5"
+                                    stroke-linecap="round" />
+                            </svg>
+                            Add to List
+                        </button>
+                    </div>
+                    <div class="card-meta">
+                        <span id="card-publisher" class="meta-item publisher"></span>
+                        <span id="card-field" class="meta-item field"></span>
+                    </div>
+                    <div class="card-ratings">
+                        <div class="rating-badge abdc-badge">
+                            <span class="rating-label">ABDC</span>
+                            <span id="card-abdc" class="rating-value"></span>
+                        </div>
+                        <div class="rating-badge ajg-badge">
+                            <span class="rating-label">AJG</span>
+                            <span id="card-ajg" class="rating-value"></span>
+                        </div>
+                        <div class="rating-badge points-badge">
+                            <span class="rating-label">FSB Points</span>
+                            <span id="card-points" class="rating-value"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- No match message -->
+                <div id="no-match" class="no-match hidden">
+                    <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+                        <circle cx="20" cy="20" r="16" stroke="currentColor" stroke-width="2" opacity="0.3" />
+                        <path d="M14 26l12-12M14 14l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            opacity="0.3" />
+                    </svg>
+                    <p>No matching journals found. Try a different search term.</p>
+                </div>
+            </section>
+
+            <!-- Working List Section -->
+            <section class="list-section" id="list-section">
+                <div class="list-header">
+                    <h2 class="section-title">Working List</h2>
+                    <div class="grand-total-wrapper">
+                        <span class="grand-total-label">Grand Total</span>
+                        <span id="grand-total" class="grand-total-value">0</span>
+                        <span class="grand-total-suffix">pts</span>
+                    </div>
+                </div>
+
+                <!-- Empty state -->
+                <div id="empty-state" class="empty-state">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+                        <rect x="8" y="6" width="32" height="36" rx="4" stroke="currentColor" stroke-width="2"
+                            opacity="0.2" />
+                        <path d="M16 18h16M16 24h12M16 30h8" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" opacity="0.2" />
+                    </svg>
+                    <p>Search for journals above and add them to build your points list.</p>
+                </div>
+
+                <!-- Table -->
+                <div id="table-wrapper" class="table-wrapper hidden">
+                    <table class="journal-table" id="journal-table">
+                        <thead>
+                            <tr>
+                                <th class="col-name">Journal</th>
+                                <th class="col-abdc">ABDC</th>
+                                <th class="col-ajg">AJG</th>
+                                <th class="col-pts">Pts/Paper</th>
+                                <th class="col-count"># Papers</th>
+                                <th class="col-total">Total</th>
+                                <th class="col-actions"></th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body"></tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+
+        <footer class="app-footer">
+            <p>Data sources: ABDC Journal Quality List 2022 · AJG Academic Journal Guide 2024 · FSB Workload Policy</p>
+            <p style="margin-top: 6px;">Developed by Arthur Carvalho (<a href="mailto:arthur.carvalho@miamioh.edu" style="color: var(--accent-indigo); text-decoration: none;">arthur.carvalho@miamioh.edu</a>)</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

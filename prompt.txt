@@ -1,0 +1,13 @@
+Create a web-based application for looking up academic journal rankings and calculating workload-policy points for the Farmer School of Business (FSB).
+
+The app should allow a user to type the name of a journal into a search field. As the user types, the application should provide autocomplete suggestions for matching journal names. The search system should be robust to partial or slightly inaccurate journal names, allowing users to find journals even if they enter only part of the name, use abbreviations, or include minor spelling differences.
+
+When a journal is selected, the app should display the journal’s ABDC ranking, AJG ranking, and the number of FSB workload-policy points assigned per paper.
+
+Users should be able to add multiple journals to a working list. For each journal in the list, the user should be able to enter the number of papers they have published in that journal. The app should display a table showing the journal name, ABDC ranking, AJG ranking, FSB points per paper, number of papers, and the total points earned from that journal. The application should automatically calculate and display the total points for each journal as well as the grand total of accumulated FSB workload-policy points across all selected journals.
+
+The journal rankings and FSB point values should be retrieved from files located in the Data folder. The application should read these files and use them as the source for journal matching, rankings, and point calculations.
+
+The interface should be clean, simple, and responsive. The search feature should include autocomplete suggestions and fuzzy matching to ensure that journals can still be found even if the user enters an incomplete or slightly incorrect name. If a journal cannot be matched, the system should display a clear message indicating that the journal was not found.
+
+The application should run in a web browser and be implemented with clean, modular, and maintainable code. The architecture should make it easy to update the underlying data if the files in the Data folder change in the future.
