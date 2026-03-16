@@ -1,0 +1,7 @@
+Data/
+build_data.py
+*.pyc
+__pycache__/
+.git/
+.gitignore
+prompt.txt
