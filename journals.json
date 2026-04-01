@@ -51,9 +51,9 @@
     "title": "Academy of Management Discoveries",
     "publisher": "Academy of Management",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Academy of Management Journal",
@@ -118,6 +118,14 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
+  },
+  {
+    "title": "Accounting & Finance Journal / Revista Contabilidade & Finanças",
+    "publisher": "University of São Paulo",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Accounting Accountability and Performance",
@@ -187,9 +195,9 @@
     "title": "Accounting Forum",
     "publisher": "Taylor & Francis Online",
     "field": "ACCOUNT",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "3",
-    "points": 3
+    "points": 4
   },
   {
     "title": "Accounting Historians Journal",
@@ -248,6 +256,14 @@
     "points": 2
   },
   {
+    "title": "Accounting Theory and Practice",
+    "publisher": "Elsevier ScienceDirect",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Accounting, Economics and Law – A Convivium",
     "publisher": "De Gruyter",
     "field": "ACCOUNT",
@@ -270,22 +286,6 @@
     "abdc": "A*",
     "ajg": "4*",
     "points": 7
-  },
-  {
-    "title": "ACM Transactions on Computer-Human Interaction",
-    "publisher": "Association for Computing Machinery",
-    "field": "",
-    "abdc": "A*",
-    "ajg": "",
-    "points": 5
-  },
-  {
-    "title": "ACM Transactions on Computing Education",
-    "publisher": "The Association for Computing Machinery",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "ACM Transactions on Information Systems",
@@ -406,6 +406,14 @@
     "abdc": "A*",
     "ajg": "4*",
     "points": 7
+  },
+  {
+    "title": "Administrative Sciences",
+    "publisher": "MDPI",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Administrative Theory and Praxis",
@@ -656,14 +664,6 @@
     "points": 0
   },
   {
-    "title": "African Journal of Accounting, Economics, Finance and Banking Research",
-    "publisher": "Global Business Investments and Publications",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "African Journal of Agricultural and Resource Economics",
     "publisher": "African Association of Agricultural Economists",
     "field": "",
@@ -793,7 +793,7 @@
   },
   {
     "title": "Agricultural Economics Research Review",
-    "publisher": "Agricultural Economics Research Association",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -822,6 +822,14 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
+  },
+  {
+    "title": "AIMS International Journal of Management",
+    "publisher": "AIMS International",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Air and Space Law",
@@ -865,7 +873,7 @@
   },
   {
     "title": "Algorithmic Finance",
-    "publisher": "IOS Press",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -930,18 +938,18 @@
   {
     "title": "American Business Law Journal",
     "publisher": "Wiley-Blackwell Publishing",
-    "field": "ETHICS-CSR-MAN",
+    "field": "",
     "abdc": "A",
-    "ajg": "1",
-    "points": 2
+    "ajg": "",
+    "points": 4
   },
   {
     "title": "American Business Review",
     "publisher": "University of New Haven",
     "field": "IB&AREA",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "1",
-    "points": 2
+    "points": 1
   },
   {
     "title": "American Economic Journal: Applied Economics",
@@ -992,12 +1000,28 @@
     "points": 0
   },
   {
+    "title": "American International Journal of Business and Management Studies",
+    "publisher": "American Center of Science and Education",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "American Journal of Agricultural Economics",
     "publisher": "Oxford University Press",
     "field": "ECON",
     "abdc": "A*",
     "ajg": "3",
     "points": 5
+  },
+  {
+    "title": "American Journal of Business (AJB)",
+    "publisher": "Emerald Publishing",
+    "field": "ETHICS-CSR-MAN",
+    "abdc": "C",
+    "ajg": "1",
+    "points": 0
   },
   {
     "title": "American Journal of Comparative Law",
@@ -1035,9 +1059,9 @@
     "title": "American Journal of Health Economics",
     "publisher": "MIT Press",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "2",
-    "points": 3
+    "points": 4
   },
   {
     "title": "American Journal of Political Science",
@@ -1051,9 +1075,9 @@
     "title": "American Journal of Psychology",
     "publisher": "University of Illinois Press",
     "field": "PSYCH (GENERAL)",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "1",
-    "points": 1
+    "points": 0
   },
   {
     "title": "American Journal of Public Health",
@@ -1142,6 +1166,14 @@
     "abdc": "C",
     "ajg": "",
     "points": 0
+  },
+  {
+    "title": "Analytic Methods in Accident Research",
+    "publisher": "Elsevier",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
   },
   {
     "title": "Anatolia",
@@ -1288,6 +1320,14 @@
     "points": 6
   },
   {
+    "title": "Annals of Tourism Research Empirical Insights",
+    "publisher": "Elsevier",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
     "title": "Annals of Work Exposures and Health",
     "publisher": "Oxford University Press",
     "field": "ETHICS-CSR-MAN",
@@ -1315,9 +1355,9 @@
     "title": "Annual Review of Economics",
     "publisher": "Annual Reviews",
     "field": "ECON",
-    "abdc": "B",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 3
+    "points": 5
   },
   {
     "title": "Annual Review of Financial Economics",
@@ -1512,14 +1552,6 @@
     "points": 2
   },
   {
-    "title": "Applied Ontology",
-    "publisher": "IOS Press",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Applied Psychological Measurement",
     "publisher": "Sage Publications",
     "field": "PSYCH (WOP-OB)",
@@ -1544,12 +1576,12 @@
     "points": 2
   },
   {
-    "title": "Applied Soft Computing",
-    "publisher": "Elsevier",
+    "title": "Applied Research in Quality of Life",
+    "publisher": "Springer Nature",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Applied Stochastic Models in Business and Industry",
@@ -1594,14 +1626,6 @@
   {
     "title": "Arkansas Business and Economic Review",
     "publisher": "University of Arkansas, Bureau of Business and Eco",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Art Law and Accounting Reporter",
-    "publisher": "Volunteer Lawyers and Accountants for the Arts",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -1656,14 +1680,6 @@
     "points": 2
   },
   {
-    "title": "Asia Pacific Journal of Arts and Cultural Management",
-    "publisher": "The University of Melbourne",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Asia Pacific Journal of Economics and Business",
     "publisher": "Taylor & Francis Online",
     "field": "",
@@ -1691,9 +1707,9 @@
     "title": "Asia Pacific Journal of Information Systems",
     "publisher": "Korea Society of Management Information Systems",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Asia Pacific Journal of Management",
@@ -1779,9 +1795,9 @@
     "title": "Asia-Pacific Journal of Business Administration",
     "publisher": "Emerald Group Publishing",
     "field": "IB&AREA",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Asia-Pacific Journal of Financial Studies",
@@ -1795,9 +1811,17 @@
     "title": "Asia-Pacific Journal of Human Resources",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "HRM&EMP",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
+  },
+  {
+    "title": "Asia-Pacific Journal of Innovation in Hospitality and Tourism",
+    "publisher": "Taylors' University, Malaysia",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Asia-Pacific Journal of Operational Research",
@@ -1865,7 +1889,7 @@
   },
   {
     "title": "Asian and Pacific Migration Journal",
-    "publisher": "Scalabrini Migration Center",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -1912,6 +1936,14 @@
     "points": 0
   },
   {
+    "title": "Asian Economics Letters",
+    "publisher": "Asia-Pacific Applied Economics Association",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Asian Economies",
     "publisher": "Ajia Keizai Kenkyujo",
     "field": "",
@@ -1931,9 +1963,9 @@
     "title": "Asian Journal of Accounting Research",
     "publisher": "Emerald Group Publishing",
     "field": "ACCOUNT",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Asian Journal of Agriculture and Development",
@@ -1945,7 +1977,7 @@
   },
   {
     "title": "Asian Journal of Business and Accounting",
-    "publisher": "University of Malaysia",
+    "publisher": "University of Malaya",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -2016,14 +2048,6 @@
     "points": 0
   },
   {
-    "title": "Asian Journal of Tourism and Hospitality Research",
-    "publisher": "Phillippine e-Journals",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Asian Population Studies",
     "publisher": "Taylor & Francis Online",
     "field": "",
@@ -2056,20 +2080,20 @@
     "points": 0
   },
   {
+    "title": "Asia‐Pacific Economic History Review",
+    "publisher": "Wiley-Blackwell Publishing",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
     "title": "Aslib Journal of Information Management",
     "publisher": "Emerald",
     "field": "INFO MAN",
     "abdc": "",
     "ajg": "1",
     "points": 0
-  },
-  {
-    "title": "Aslib Proceedings: New information perspectives",
-    "publisher": "Emerald Group Publishing",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "ASOR Bulletin",
@@ -2107,9 +2131,9 @@
     "title": "ASTIN Bulletin",
     "publisher": "Cambridge University Press",
     "field": "FINANCE",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "2",
-    "points": 3
+    "points": 4
   },
   {
     "title": "ATA Journal of Legal Tax Research",
@@ -2153,7 +2177,7 @@
   },
   {
     "title": "Australasian Accounting Business and Finance Journal",
-    "publisher": "University of Canberra",
+    "publisher": "University of Wollongong",
     "field": "ACCOUNT",
     "abdc": "B",
     "ajg": "1",
@@ -2161,7 +2185,7 @@
   },
   {
     "title": "Australasian Agribusiness Review",
-    "publisher": "The University of Melbourne",
+    "publisher": "University of New England",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -2176,28 +2200,12 @@
     "points": 0
   },
   {
-    "title": "Australasian Journal of Business and Behavioural Sciences",
-    "publisher": "Australasian Business and Behavioural Sciences Association",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Australasian Journal of Economics Education",
     "publisher": "University of Queensland",
     "field": "",
     "abdc": "C",
     "ajg": "",
     "points": 0
-  },
-  {
-    "title": "Australasian Journal of Environmental Management",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
   },
   {
     "title": "Australasian Journal of Information Systems",
@@ -2233,19 +2241,11 @@
   },
   {
     "title": "Australasian Marketing Journal",
-    "publisher": "Elsevier",
+    "publisher": "Sage Publications",
     "field": "MKT",
     "abdc": "A",
     "ajg": "1",
     "points": 2
-  },
-  {
-    "title": "Australasian Parks and Leisure",
-    "publisher": "Universal Magazines",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Australian Accounting Review",
@@ -2280,14 +2280,6 @@
     "points": 4
   },
   {
-    "title": "Australian Bulletin of Labour",
-    "publisher": "National Institute of Labour Studies, Flinders University",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Australian Business Law Review",
     "publisher": "Thomson Reuters",
     "field": "",
@@ -2305,9 +2297,9 @@
   },
   {
     "title": "Australian Economic History Review",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Wiley-Blackwell",
     "field": "BUS HIST & ECON HIST",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "2",
     "points": 2
   },
@@ -2331,9 +2323,9 @@
     "title": "Australian Intellectual Property Journal",
     "publisher": "Thomson Reuters",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Australian Journal of Actuarial Practice (formerly Australian Actuarial Journal)",
@@ -2346,14 +2338,6 @@
   {
     "title": "Australian Journal of Asian Law",
     "publisher": "Federation Press",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Australian Journal of Business and Management Research",
-    "publisher": "New South Wales Research Centre Australia",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -2395,9 +2379,9 @@
     "title": "Australian Journal of Human Rights",
     "publisher": "University of New South Wales",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Australian Journal of International Affairs",
@@ -2441,11 +2425,11 @@
   },
   {
     "title": "Australian Journal of Psychology",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Taylor & Francis",
     "field": "PSYCH (GENERAL)",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "1",
-    "points": 1
+    "points": 0
   },
   {
     "title": "Australian Journal of Public Administration",
@@ -2454,14 +2438,6 @@
     "abdc": "A",
     "ajg": "2",
     "points": 3
-  },
-  {
-    "title": "Australian Journal of Social Issues",
-    "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Australian Law Journal",
@@ -2486,14 +2462,6 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
-  },
-  {
-    "title": "Australian Review of Public Affairs",
-    "publisher": "The University of Sydney",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Australian Tax Forum",
@@ -2528,14 +2496,6 @@
     "points": 0
   },
   {
-    "title": "Automation in Construction",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A*",
-    "ajg": "",
-    "points": 5
-  },
-  {
     "title": "Baltic Journal of Economics",
     "publisher": "Taylor & Francis Online",
     "field": "ECON",
@@ -2547,9 +2507,9 @@
     "title": "Baltic Journal of Management",
     "publisher": "Emerald Group Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Bancaria The Journal of the Italian Banking Association",
@@ -2585,9 +2545,9 @@
   },
   {
     "title": "Banks and Bank Systems",
-    "publisher": "Business Perspectives Ltd",
+    "publisher": "Business Perspectives",
     "field": "FINANCE",
-    "abdc": "C",
+    "abdc": "",
     "ajg": "1",
     "points": 0
   },
@@ -2728,16 +2688,16 @@
     "points": 4
   },
   {
-    "title": "BMC Medical Informatics and Decision Making",
-    "publisher": "BioMed Central Ltd",
+    "title": "Bond Law Review",
+    "publisher": "Bond Faculty of Law Review Editorial Committee",
     "field": "",
     "abdc": "B",
     "ajg": "",
     "points": 2
   },
   {
-    "title": "Bond Law Review",
-    "publisher": "Bond Faculty of Law Review Editorial Committee",
+    "title": "Borsa Istanbul Review",
+    "publisher": "Elsevier",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -2786,14 +2746,6 @@
   {
     "title": "Briefing Notes in Economics",
     "publisher": "Parvis Dabir-Alai",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Briefings in Real Estate Finance",
-    "publisher": "Wiley-Blackwell Publishing",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -2859,9 +2811,9 @@
     "title": "British Journal of Management",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4",
-    "points": 5
+    "points": 6
   },
   {
     "title": "British Journal of Mathematical and Statistical Psychology",
@@ -2875,15 +2827,15 @@
     "title": "British Journal of Political Science",
     "publisher": "Cambridge University Press",
     "field": "",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "",
-    "points": 4
+    "points": 5
   },
   {
     "title": "British Journal of Psychology",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Wiley-Blackwell",
     "field": "PSYCH (GENERAL)",
-    "abdc": "A",
+    "abdc": "",
     "ajg": "3",
     "points": 4
   },
@@ -3008,6 +2960,14 @@
     "points": 3
   },
   {
+    "title": "Business Analyst Journal",
+    "publisher": "Emerald Publishing",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Business and Economics Research Journal",
     "publisher": "Adem Anbar",
     "field": "",
@@ -3019,17 +2979,17 @@
     "title": "Business and Human Rights Journal",
     "publisher": "Cambridge University Press",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Business and Politics",
     "publisher": "Cambridge University Press",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "A",
+    "abdc": "C",
     "ajg": "2",
-    "points": 3
+    "points": 1
   },
   {
     "title": "Business and Professional Communication Quarterly",
@@ -3064,12 +3024,28 @@
     "points": 0
   },
   {
+    "title": "Business Case Journal",
+    "publisher": "Society for Case Research",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Business Economics",
     "publisher": "Springer International Publishing",
     "field": "ECON",
     "abdc": "B",
     "ajg": "1",
     "points": 1
+  },
+  {
+    "title": "Business Ethics and Leadership",
+    "publisher": "Academic Research and Publishing UG, Germany",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Business Ethics Quarterly",
@@ -3080,28 +3056,20 @@
     "points": 4
   },
   {
-    "title": "Business Ethics, the Environment and Responsibility",
-    "publisher": "Wiley-Blackwell",
-    "field": "ETHICS-CSR-MAN",
-    "abdc": "",
-    "ajg": "2",
-    "points": 2
-  },
-  {
-    "title": "Business Ethics: A European review",
+    "title": "Business Ethics, the Environment & Responsibility",
     "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
+    "field": "ETHICS-CSR-MAN",
     "abdc": "B",
-    "ajg": "",
+    "ajg": "2",
     "points": 2
   },
   {
     "title": "Business History",
     "publisher": "Taylor & Francis Online",
     "field": "BUS HIST & ECON HIST",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4",
-    "points": 5
+    "points": 6
   },
   {
     "title": "Business History Review",
@@ -3118,14 +3086,6 @@
     "abdc": "B",
     "ajg": "2",
     "points": 2
-  },
-  {
-    "title": "Business Intelligence Journal",
-    "publisher": "Data Warehousing Institute",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Business Law Review",
@@ -3296,14 +3256,6 @@
     "points": 4
   },
   {
-    "title": "Canadian Journal of Transportation",
-    "publisher": "University of New Brunswick",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Canadian Psychology",
     "publisher": "Canadian Psychological Association",
     "field": "PSYCH (GENERAL)",
@@ -3395,9 +3347,9 @@
     "title": "Career Development International",
     "publisher": "Emerald Group Publishing",
     "field": "HRM&EMP",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Career Development Quarterly",
@@ -3406,14 +3358,6 @@
     "abdc": "",
     "ajg": "2",
     "points": 2
-  },
-  {
-    "title": "CASE Journal",
-    "publisher": "Emerald",
-    "field": "ETHICS-CSR-MAN",
-    "abdc": "",
-    "ajg": "1",
-    "points": 0
   },
   {
     "title": "Case Studies on Transport Policy",
@@ -3499,9 +3443,9 @@
     "title": "China Agricultural Economic Review",
     "publisher": "Emerald Group Publishing",
     "field": "ECON",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "China and World Economy",
@@ -3515,8 +3459,16 @@
     "title": "China Economic Journal",
     "publisher": "Taylor & Francis",
     "field": "ECON",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "1",
+    "points": 1
+  },
+  {
+    "title": "China Economic Quarterly International",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
     "points": 0
   },
   {
@@ -3531,9 +3483,9 @@
     "title": "China Finance Review International",
     "publisher": "Emerald Group Publishing Limited",
     "field": "FINANCE",
-    "abdc": "C",
+    "abdc": "A",
     "ajg": "1",
-    "points": 0
+    "points": 2
   },
   {
     "title": "China Information",
@@ -3547,9 +3499,9 @@
     "title": "China Journal of Accounting Research",
     "publisher": "Elsevier",
     "field": "ACCOUNT",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "China Journal of Accounting Studies",
@@ -3624,6 +3576,14 @@
     "points": 4
   },
   {
+    "title": "Cleaner Logistics and Supply Chain",
+    "publisher": "Elsevier Ltd",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
     "title": "Climate and Development",
     "publisher": "Taylor & Francis Online",
     "field": "",
@@ -3664,10 +3624,10 @@
     "points": 0
   },
   {
-    "title": "Cogent Business and Management",
-    "publisher": "Taylor & Francis",
+    "title": "Cogent Business & Management",
+    "publisher": "Talyor & Francis Group",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -3694,14 +3654,6 @@
     "abdc": "",
     "ajg": "2",
     "points": 2
-  },
-  {
-    "title": "Cognitive Psychology",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
   },
   {
     "title": "Cognitive Research: Principles and Implications",
@@ -3808,14 +3760,6 @@
     "points": 2
   },
   {
-    "title": "Communication Monographs",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Communication Research",
     "publisher": "Sage Publications",
     "field": "",
@@ -3848,6 +3792,14 @@
     "points": 2
   },
   {
+    "title": "Communications in Transportation Research",
+    "publisher": "Elsevier & Tsinghua University Press",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Communications Law Bulletin",
     "publisher": "Australasian Communications Law Association",
     "field": "",
@@ -3859,9 +3811,9 @@
     "title": "Communications of the ACM",
     "publisher": "Association for Computing Machinery",
     "field": "INFO MAN",
-    "abdc": "A",
+    "abdc": "",
     "ajg": "2",
-    "points": 3
+    "points": 2
   },
   {
     "title": "Communications of the Association for Information Systems",
@@ -3923,9 +3875,9 @@
     "title": "Comparative Political Studies",
     "publisher": "Sage Publications",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "Comparative Politics",
@@ -3934,6 +3886,14 @@
     "abdc": "A",
     "ajg": "",
     "points": 4
+  },
+  {
+    "title": "Compensation & Benefits Review",
+    "publisher": "SAGE",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Competition and Change",
@@ -4040,6 +4000,14 @@
     "points": 0
   },
   {
+    "title": "Computer Journal",
+    "publisher": "Oxford University Press",
+    "field": "INFO MAN",
+    "abdc": "",
+    "ajg": "2",
+    "points": 2
+  },
+  {
     "title": "Computer Law & Security Review",
     "publisher": "Elsevier",
     "field": "",
@@ -4069,14 +4037,6 @@
     "field": "OR&MANSCI",
     "abdc": "A",
     "ajg": "3",
-    "points": 4
-  },
-  {
-    "title": "Computers and Security",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
     "points": 4
   },
   {
@@ -4201,7 +4161,7 @@
   },
   {
     "title": "Contemporary Economics",
-    "publisher": "University of Finance and Management in Warsaw",
+    "publisher": "Vizia University",
     "field": "ECON",
     "abdc": "C",
     "ajg": "1",
@@ -4218,6 +4178,14 @@
   {
     "title": "Contemporary Sociology",
     "publisher": "Sage Publications",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Contract and Commercial Law Review",
+    "publisher": "J W Carter Publishing Pty Ltd",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -4299,17 +4267,9 @@
     "title": "Corporate Governance",
     "publisher": "Emerald Group Publishing",
     "field": "FINANCE",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
-  },
-  {
-    "title": "Corporate Governance and Sustainability Review",
-    "publisher": "Virtus Interpress",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Corporate Governance International",
@@ -4326,14 +4286,6 @@
     "abdc": "A",
     "ajg": "3",
     "points": 4
-  },
-  {
-    "title": "Corporate Ownership and Control",
-    "publisher": "Virtus Interpress",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Corporate Reputation Review",
@@ -4379,9 +4331,9 @@
     "title": "Creativity and Innovation Management",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "INNOV",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Creativity Research Journal",
@@ -4608,14 +4560,6 @@
     "points": 4
   },
   {
-    "title": "Data and Knowledge Engineering",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Data Base for Advances in Information Systems",
     "publisher": "Sheridan Press",
     "field": "INFO MAN",
@@ -4643,9 +4587,9 @@
     "title": "Decision",
     "publisher": "American Psychological Association",
     "field": "PSYCH (GENERAL)",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "2",
-    "points": 3
+    "points": 2
   },
   {
     "title": "Decision Analysis",
@@ -4678,6 +4622,14 @@
     "abdc": "A*",
     "ajg": "3",
     "points": 5
+  },
+  {
+    "title": "DECISION: Official journal of indian institute of management calcutta",
+    "publisher": "Springer Nature",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Decisions in Economics and Finance",
@@ -4786,6 +4738,14 @@
   {
     "title": "Development Southern Africa",
     "publisher": "Taylor & Francis Online",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Digital Business",
+    "publisher": "Elsevier",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -4995,9 +4955,9 @@
     "title": "Econometrics Journal",
     "publisher": "Oxford University Press",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Economia",
@@ -5043,9 +5003,9 @@
     "title": "Economic Analysis and Policy",
     "publisher": "Elsevier",
     "field": "ECON",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "1",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Economic and Business Review",
@@ -5376,6 +5336,14 @@
     "points": 4
   },
   {
+    "title": "Economics of Disasters and Climate Change",
+    "publisher": "Springer Nature",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Economics of Education Review",
     "publisher": "Elsevier",
     "field": "ECON",
@@ -5409,11 +5377,11 @@
   },
   {
     "title": "Economics of Transition and Institutional Change",
-    "publisher": "Wiley-Blackwell",
+    "publisher": "Wiley-Blackwell Publishing",
     "field": "ECON",
-    "abdc": "",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Economics of Transportation",
@@ -5555,9 +5523,9 @@
     "title": "Electronic Commerce Research and Applications",
     "publisher": "Elsevier",
     "field": "INFO MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Electronic Communication Law Review",
@@ -5586,14 +5554,6 @@
   {
     "title": "Electronic Journal of Information Systems in Developing Countries",
     "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Electronic Journal of IS Evaluation",
-    "publisher": "Academic Conferences and Publishing International",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -5632,14 +5592,6 @@
     "points": 0
   },
   {
-    "title": "Emergence: complexity and organization",
-    "publisher": "ISCE Publishing",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Emerging Markets Finance and Trade",
     "publisher": "Taylor & Francis Online",
     "field": "FINANCE",
@@ -5659,9 +5611,9 @@
     "title": "Empirica",
     "publisher": "Springer International Publishing",
     "field": "ECON",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Empirical Economics",
@@ -5683,9 +5635,9 @@
     "title": "Employee Relations",
     "publisher": "Emerald Group Publishing",
     "field": "HRM&EMP",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Employee Relations Law Journal",
@@ -5721,7 +5673,7 @@
   },
   {
     "title": "Energy Journal",
-    "publisher": "International Association for Energy Economics",
+    "publisher": "Sage Publications",
     "field": "SECTOR",
     "abdc": "A",
     "ajg": "3",
@@ -5734,6 +5686,14 @@
     "abdc": "A",
     "ajg": "2",
     "points": 3
+  },
+  {
+    "title": "Energy Research Letters",
+    "publisher": "Asia-Pacific Applied Economics Association",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Energy Sources, Part B: Economics, Planning, and Policy",
@@ -5766,6 +5726,14 @@
     "abdc": "C",
     "ajg": "",
     "points": 0
+  },
+  {
+    "title": "Engineering Management Journal",
+    "publisher": "Taylor & Francis Online",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
   },
   {
     "title": "Engineering Optimization",
@@ -5888,7 +5856,7 @@
     "points": 5
   },
   {
-    "title": "Environment and Planning B: planning and design",
+    "title": "Environment and Planning B: Urban Analytics and City Science",
     "publisher": "Sage Publications",
     "field": "",
     "abdc": "A*",
@@ -5971,9 +5939,9 @@
     "title": "Environmental Innovation and Societal Transitions",
     "publisher": "Elsevier",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "Environmental Management",
@@ -6006,6 +5974,14 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
+  },
+  {
+    "title": "EPH-International Journal of Business & Management Science",
+    "publisher": "Southern Cross Academic Press",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Ephemera: Critical Dialogues on Organization",
@@ -6083,9 +6059,9 @@
     "title": "Ethics and Information Technology",
     "publisher": "Springer International Publishing",
     "field": "INFO MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Ethics: an international journal of social, political, and legal philosophy",
@@ -6107,9 +6083,9 @@
     "title": "Eurasian Business Review",
     "publisher": "Springer International Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Eurasian Economic Review",
@@ -6130,9 +6106,9 @@
   {
     "title": "Eurasian Journal of Business and Economics",
     "publisher": "Ala-Too International University",
-    "field": "ECON",
+    "field": "",
     "abdc": "C",
-    "ajg": "1",
+    "ajg": "",
     "points": 0
   },
   {
@@ -6171,17 +6147,17 @@
     "title": "EuroMed Journal of Business",
     "publisher": "Emerald Group Publishing",
     "field": "IB&AREA",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Europe-Asia Studies",
     "publisher": "Taylor & Francis Online",
     "field": "IB&AREA",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "European Actuarial Journal",
@@ -6238,14 +6214,6 @@
     "abdc": "A",
     "ajg": "",
     "points": 4
-  },
-  {
-    "title": "European Economic Letters",
-    "publisher": "European Economics Letters Groups",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "European Economic Review",
@@ -6393,9 +6361,9 @@
   },
   {
     "title": "European Journal of Management and Business Economics",
-    "publisher": "Emerald",
+    "publisher": "Emerald Group Publishing",
     "field": "STRAT",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "2",
     "points": 2
   },
@@ -6425,7 +6393,7 @@
   },
   {
     "title": "European Journal of Personality",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "A",
     "ajg": "",
@@ -6488,20 +6456,20 @@
     "points": 4
   },
   {
-    "title": "European Journal of Sociology",
-    "publisher": "Cambridge University Press",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "European Journal of the History of Economic Thought",
     "publisher": "Taylor & Francis Online",
     "field": "BUS HIST & ECON HIST",
     "abdc": "B",
     "ajg": "2",
     "points": 2
+  },
+  {
+    "title": "European Journal of Tourism Research",
+    "publisher": "Varna University of Management",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "European Journal of Training and Development",
@@ -6555,17 +6523,17 @@
     "title": "European Management Journal",
     "publisher": "Elsevier",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "European Management Review",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "3",
-    "points": 2
+    "points": 3
   },
   {
     "title": "European Planning Studies",
@@ -6582,6 +6550,14 @@
     "abdc": "",
     "ajg": "1",
     "points": 0
+  },
+  {
+    "title": "European Research on Management and Business Economics",
+    "publisher": "European Academy of Management and Business Economics (AEDEM) - Elsevier",
+    "field": "",
+    "abdc": "A",
+    "ajg": "",
+    "points": 4
   },
   {
     "title": "European Review of Agricultural Economics",
@@ -6688,7 +6664,7 @@
     "points": 2
   },
   {
-    "title": "Evidence-based HRM",
+    "title": "Evidence-based HRM (EBHRM): A Global Forum for Empirical Scholarship",
     "publisher": "Emerald Group Publishing",
     "field": "HRM&EMP",
     "abdc": "B",
@@ -6731,7 +6707,7 @@
     "title": "Expert Systems with Applications",
     "publisher": "Elsevier",
     "field": "INFO MAN",
-    "abdc": "C",
+    "abdc": "",
     "ajg": "1",
     "points": 0
   },
@@ -6811,9 +6787,9 @@
     "title": "FIIB Business Review",
     "publisher": "Sage Publications",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Finance",
@@ -6875,7 +6851,7 @@
     "title": "Financial Innovation",
     "publisher": "Springer Nature",
     "field": "FINANCE",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "2",
     "points": 2
   },
@@ -6883,9 +6859,9 @@
     "title": "Financial Management",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "FINANCE",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Financial Markets and Portfolio Management",
@@ -6899,29 +6875,29 @@
     "title": "Financial Markets, Institutions and Instruments",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "FINANCE",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "3",
-    "points": 3
+    "points": 4
   },
   {
     "title": "Financial Planning Research Journal",
-    "publisher": "Griffith University on behalf of FPA Australia",
+    "publisher": "Financial Advice Association of Australia, in partnership with Paradigm Publishing Services",
     "field": "",
     "abdc": "C",
     "ajg": "",
     "points": 0
+  },
+  {
+    "title": "Financial Planning Review",
+    "publisher": "Wiley",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
   },
   {
     "title": "Financial Reporting",
     "publisher": "Franco Angeli",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Financial Reporting, Regulation & Governance",
-    "publisher": "",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -6979,9 +6955,9 @@
     "title": "First Monday",
     "publisher": "University of Illinois Press",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Fiscal Studies",
@@ -7027,17 +7003,17 @@
     "title": "Foreign Affairs",
     "publisher": "Council on Foreign Relations",
     "field": "",
-    "abdc": "A*",
+    "abdc": "C",
     "ajg": "",
-    "points": 5
+    "points": 0
   },
   {
     "title": "Foreign Policy (Washington)",
     "publisher": "National Affairs, Inc.",
     "field": "",
-    "abdc": "A*",
+    "abdc": "C",
     "ajg": "",
-    "points": 5
+    "points": 0
   },
   {
     "title": "Foreign Trade Review",
@@ -7101,14 +7077,6 @@
     "field": "ECON",
     "abdc": "C",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "Foundations and Trends in Entrepreneurship",
-    "publisher": "Now Publishers",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
     "points": 0
   },
   {
@@ -7184,8 +7152,8 @@
     "points": 4
   },
   {
-    "title": "Gambling Research",
-    "publisher": "National Association for Gambling Studies",
+    "title": "Gadjah Mada International Journal of Business",
+    "publisher": "Master in Management Program, Faculty of Economics and Business, Universitas Gadjah Mada",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -7227,9 +7195,9 @@
     "title": "Gender in Management: an international journal",
     "publisher": "Emerald Group Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Gender, Work and Organization",
@@ -7307,9 +7275,9 @@
     "title": "Global Business Review",
     "publisher": "Sage Publications",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Global Economic Review",
@@ -7339,9 +7307,9 @@
     "title": "Global Environmental Politics",
     "publisher": "MIT Press",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Global Finance Journal",
@@ -7390,14 +7358,6 @@
     "abdc": "A",
     "ajg": "3",
     "points": 4
-  },
-  {
-    "title": "Global Perspectives on Accounting Education",
-    "publisher": "Global Perspectives on Accounting Education",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Global Social Policy",
@@ -7648,28 +7608,12 @@
     "points": 3
   },
   {
-    "title": "Health Policy and Technology",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Health Promotion International",
     "publisher": "Oxford University Press",
     "field": "",
     "abdc": "A",
     "ajg": "",
     "points": 4
-  },
-  {
-    "title": "Health Services and Outcomes Research Methodology",
-    "publisher": "Springer International Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Health Services Management Research",
@@ -7691,9 +7635,9 @@
     "title": "Health Systems",
     "publisher": "Taylor & Francis",
     "field": "INFO MAN",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "2",
-    "points": 2
+    "points": 1
   },
   {
     "title": "Higher Education",
@@ -7832,14 +7776,6 @@
     "points": 0
   },
   {
-    "title": "Human Communication Research",
-    "publisher": "Oxford University Press",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Human Factors",
     "publisher": "SAGE",
     "field": "PSYCH (WOP-OB)",
@@ -7854,14 +7790,6 @@
     "abdc": "",
     "ajg": "1",
     "points": 0
-  },
-  {
-    "title": "Human IT",
-    "publisher": "Centre for Information Technology Studies as a Human Science (ITH)",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Human Organization",
@@ -7899,9 +7827,9 @@
     "title": "Human Resource Development Quarterly",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "HRM&EMP",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Human Resource Development Review",
@@ -7931,9 +7859,9 @@
     "title": "Human Resource Management Journal (UK)",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "HRM&EMP",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4*",
-    "points": 6
+    "points": 7
   },
   {
     "title": "Human Resource Management Review",
@@ -7945,7 +7873,7 @@
   },
   {
     "title": "Human Systems Management",
-    "publisher": "IOS Press",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -7966,14 +7894,6 @@
     "abdc": "C",
     "ajg": "",
     "points": 0
-  },
-  {
-    "title": "IBM Systems Journal",
-    "publisher": "Institute of Electrical and Electronics Engineers",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
   },
   {
     "title": "ICSID Review: foreign investment law journal",
@@ -8032,14 +7952,6 @@
     "points": 4
   },
   {
-    "title": "IEEE Transactions on Vehicular Technology",
-    "publisher": "Institute of Electrical and Electronics Engineers",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "IIC International Review of Intellectual Property and Competition Law",
     "publisher": "Springer International Publishing",
     "field": "",
@@ -8059,9 +7971,9 @@
     "title": "IIMB Management Review",
     "publisher": "Elsevier",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "IISE Transactions",
@@ -8158,14 +8070,6 @@
     "abdc": "C",
     "ajg": "3",
     "points": 2
-  },
-  {
-    "title": "Indian Journal of Finance",
-    "publisher": "Associated Management Consultants Private Limited",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Indian Journal of Gender Studies",
@@ -8299,9 +8203,9 @@
     "title": "Industry and Innovation",
     "publisher": "Taylor & Francis Online",
     "field": "INNOV",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "3",
-    "points": 3
+    "points": 4
   },
   {
     "title": "INFOR (INFOR: Information Systems and Operational Research)",
@@ -8320,12 +8224,20 @@
     "points": 0
   },
   {
+    "title": "Information & Management",
+    "publisher": "Elsevier",
+    "field": "INFO MAN",
+    "abdc": "A*",
+    "ajg": "3",
+    "points": 5
+  },
+  {
     "title": "Information and Communications Technology Law",
     "publisher": "Taylor & Francis Online",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Information and Computation",
@@ -8352,14 +8264,6 @@
     "points": 5
   },
   {
-    "title": "Information and Software Technology",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Information Discovery and Delivery",
     "publisher": "Emerald Group Publishing",
     "field": "",
@@ -8376,50 +8280,26 @@
     "points": 3
   },
   {
-    "title": "Information Knowledge Systems Management",
-    "publisher": "IOS Press",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Information Management",
-    "publisher": "Association of Records Managers and Administrators (ARMA) International",
-    "field": "INFO MAN",
-    "abdc": "B",
-    "ajg": "3",
-    "points": 3
-  },
-  {
     "title": "Information Polity",
-    "publisher": "IOS Press",
+    "publisher": "Sage Publications",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
-    "title": "Information Processing & Management",
+    "title": "Information Processing and Management",
     "publisher": "Elsevier",
     "field": "INFO MAN",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "2",
     "points": 2
   },
   {
-    "title": "Information Processing Letters",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Information Research",
-    "publisher": "University of Borås",
+    "publisher": "University of Boras",
     "field": "INFO MAN",
-    "abdc": "C",
+    "abdc": "",
     "ajg": "1",
     "points": 0
   },
@@ -8429,14 +8309,6 @@
     "field": "INFO MAN",
     "abdc": "C",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "Information Retrieval Journal",
-    "publisher": "Springer International Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
     "points": 0
   },
   {
@@ -8467,9 +8339,9 @@
     "title": "Information Systems Management",
     "publisher": "Taylor & Francis Online",
     "field": "INFO MAN",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Information Systems Research",
@@ -8491,17 +8363,9 @@
     "title": "Information Technology & Tourism",
     "publisher": "Springer International Publishing",
     "field": "INFO MAN",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "1",
-    "points": 1
-  },
-  {
-    "title": "Information Technology and Libraries",
-    "publisher": "Library and Information Technology Association",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Information Technology and Management",
@@ -8513,27 +8377,11 @@
   },
   {
     "title": "Information Technology for Development",
-    "publisher": "Taylor & Francis Online",
+    "publisher": "Association for Information Systems (AIS)",
     "field": "INFO MAN",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
-  },
-  {
-    "title": "Information Technology Management",
-    "publisher": "IGI Global",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
-    "title": "Information Visualization",
-    "publisher": "Sage Publications",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
+    "points": 3
   },
   {
     "title": "Information, Communication & Society",
@@ -8555,16 +8403,24 @@
     "title": "INFORMS Journal on Computing",
     "publisher": "The Institute for Operations Research and the Management Sciences (INFORMS)",
     "field": "OR&MANSCI",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "3",
-    "points": 3
+    "points": 4
   },
   {
     "title": "INFORMS Transactions on Education",
     "publisher": "Institute for Operations Research and the Management Sciences",
     "field": "MDEV&EDU",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "2",
+    "points": 1
+  },
+  {
+    "title": "Innovation and Green Development",
+    "publisher": "Elsevier Ltd",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
     "points": 2
   },
   {
@@ -8579,9 +8435,9 @@
     "title": "Innovation: Organization & Management",
     "publisher": "Taylor & Francis Online",
     "field": "INNOV",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Innovation: The European Journal of Social Sciences Research",
@@ -8683,9 +8539,9 @@
     "title": "Interacting with Computers",
     "publisher": "Oxford University Press",
     "field": "INFO MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Interdisciplinary Environmental Review",
@@ -8704,19 +8560,19 @@
     "points": 0
   },
   {
+    "title": "Interdisciplinary Journal of Management Studies",
+    "publisher": "University of Tehran Press",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Intereconomics: review of European economic policy",
     "publisher": "Springer International Publishing",
     "field": "ECON",
     "abdc": "C",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "Internal Auditing",
-    "publisher": "Thomson Reuters",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
     "points": 0
   },
   {
@@ -8738,14 +8594,6 @@
   {
     "title": "International Affairs",
     "publisher": "Oxford University Press",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
-    "title": "International and Comparative Corporate Law Journal",
-    "publisher": "Kluwer Law International",
     "field": "",
     "abdc": "A",
     "ajg": "",
@@ -8843,9 +8691,9 @@
     "title": "International Entrepreneurship and Management Journal",
     "publisher": "Springer International Publishing",
     "field": "ENT-SBM",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "International Environmental Agreements: Politics, Law and Economics",
@@ -8881,7 +8729,7 @@
   },
   {
     "title": "International Hospitality Review",
-    "publisher": "Florida International University",
+    "publisher": "Emerald Group Publishing",
     "field": "SECTOR",
     "abdc": "C",
     "ajg": "1",
@@ -8896,19 +8744,19 @@
     "points": 2
   },
   {
-    "title": "International Insurance Law Review",
-    "publisher": "Thomson Reuters",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "International Journal for Educational and Vocational Guidance",
     "publisher": "Springer Nature",
     "field": "PSYCH (WOP-OB)",
     "abdc": "",
     "ajg": "1",
+    "points": 0
+  },
+  {
+    "title": "International Journal of Accounting & Finance Review",
+    "publisher": "American Accounting & Finance Society",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
     "points": 0
   },
   {
@@ -8958,6 +8806,14 @@
     "abdc": "",
     "ajg": "2",
     "points": 2
+  },
+  {
+    "title": "International Journal of Accounting, Business and Finance",
+    "publisher": "Indian Accounting Association, Patna Branch",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "International Journal of Advertising",
@@ -9098,10 +8954,10 @@
   {
     "title": "International Journal of Business",
     "publisher": "Premier Publishing",
-    "field": "MDEV&EDU",
+    "field": "ETHICS-CSR-MAN",
     "abdc": "C",
-    "ajg": "2",
-    "points": 1
+    "ajg": "1",
+    "points": 0
   },
   {
     "title": "International Journal of Business and Economics",
@@ -9120,11 +8976,11 @@
     "points": 0
   },
   {
-    "title": "International Journal of Business and Information",
-    "publisher": "Academy of Taiwan Information Systems Research",
-    "field": "",
+    "title": "International Journal of Business and Management (IJBM)",
+    "publisher": "International Emerging Scholars Society",
+    "field": "OPS&TECH",
     "abdc": "C",
-    "ajg": "",
+    "ajg": "1",
     "points": 0
   },
   {
@@ -9149,14 +9005,6 @@
     "field": "",
     "abdc": "C",
     "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "International Journal of Business Environment",
-    "publisher": "Inderscience Publishers",
-    "field": "ETHICS-CSR-MAN",
-    "abdc": "",
-    "ajg": "1",
     "points": 0
   },
   {
@@ -9249,9 +9097,9 @@
   },
   {
     "title": "International Journal of Computer Integrated Manufacturing",
-    "publisher": "Taylor & Francis Online",
+    "publisher": "Taylor & Francis",
     "field": "OPS&TECH",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "2",
     "points": 2
   },
@@ -9267,9 +9115,9 @@
     "title": "International Journal of Construction Management",
     "publisher": "Taylor & Francis",
     "field": "OPS&TECH",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "International Journal of Consumer Studies",
@@ -9294,14 +9142,6 @@
     "abdc": "",
     "ajg": "1",
     "points": 0
-  },
-  {
-    "title": "International Journal of Cooperative Information Systems",
-    "publisher": "World Scientific Publishing",
-    "field": "INFO MAN",
-    "abdc": "A",
-    "ajg": "1",
-    "points": 2
   },
   {
     "title": "International Journal of Corporate Governance",
@@ -9361,7 +9201,7 @@
   },
   {
     "title": "International Journal of Development and Conflict",
-    "publisher": "Gokhale Institute of Politics and Economics",
+    "publisher": "Goa Institute of Management",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -9560,14 +9400,6 @@
     "points": 0
   },
   {
-    "title": "International Journal of Engineering Business Management",
-    "publisher": "SAGE",
-    "field": "OPS&TECH",
-    "abdc": "",
-    "ajg": "1",
-    "points": 0
-  },
-  {
     "title": "International Journal of Enterprise Information Systems",
     "publisher": "IGI Global",
     "field": "INFO MAN",
@@ -9587,9 +9419,9 @@
     "title": "International Journal of Entrepreneurial Behaviour and Research",
     "publisher": "Emerald Group Publishing",
     "field": "ENT-SBM",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "3",
-    "points": 3
+    "points": 4
   },
   {
     "title": "International Journal of Entrepreneurial Venturing",
@@ -9648,27 +9480,11 @@
     "points": 1
   },
   {
-    "title": "International Journal of Event Management Research",
-    "publisher": "Griffith University",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "International Journal of Evidence Based Coaching and Mentoring",
     "publisher": "Oxford Brookes University",
     "field": "MDEV&EDU",
     "abdc": "",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "International Journal of Finance",
-    "publisher": "Utex Corporation",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
     "points": 0
   },
   {
@@ -9704,14 +9520,6 @@
     "points": 0
   },
   {
-    "title": "International Journal of Financial Studies",
-    "publisher": "MDPI",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "International Journal of Forecasting",
     "publisher": "Elsevier",
     "field": "OR&MANSCI",
@@ -9739,9 +9547,9 @@
     "title": "International Journal of Gender and Entrepreneurship",
     "publisher": "Emerald Group Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "International Journal of General Systems",
@@ -9891,9 +9699,9 @@
     "title": "International Journal of Human-Computer Interaction",
     "publisher": "Taylor & Francis Online",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "International Journal of Human-Computer Studies",
@@ -9920,14 +9728,6 @@
     "points": 0
   },
   {
-    "title": "International Journal of Industrial Engineering and Management",
-    "publisher": "University of Novi Sad, Faculty of Technical Sciences",
-    "field": "OPS&TECH",
-    "abdc": "",
-    "ajg": "1",
-    "points": 0
-  },
-  {
     "title": "International Journal of Industrial Ergonomics",
     "publisher": "Elsevier",
     "field": "PSYCH (WOP-OB)",
@@ -9939,9 +9739,9 @@
     "title": "International Journal of Industrial Organization",
     "publisher": "Elsevier",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "International Journal of Information and Communication Technology Education",
@@ -9963,17 +9763,9 @@
     "title": "International Journal of Information Management",
     "publisher": "Elsevier",
     "field": "INFO MAN",
-    "abdc": "A*",
+    "abdc": "A",
     "ajg": "2",
-    "points": 4
-  },
-  {
-    "title": "International Journal of Information Security",
-    "publisher": "Springer International Publishing",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
+    "points": 3
   },
   {
     "title": "International Journal of Information Security and Privacy",
@@ -10040,6 +9832,22 @@
     "points": 0
   },
   {
+    "title": "International Journal of Innovation Science",
+    "publisher": "Emerald Publishing",
+    "field": "INNOV",
+    "abdc": "B",
+    "ajg": "1",
+    "points": 1
+  },
+  {
+    "title": "International Journal of Innovation Studies",
+    "publisher": "KeAI Publishing",
+    "field": "SOC SCI",
+    "abdc": "B",
+    "ajg": "1",
+    "points": 1
+  },
+  {
     "title": "International Journal of Integrated Supply Management",
     "publisher": "Inderscience Publishers",
     "field": "OPS&TECH",
@@ -10067,9 +9875,9 @@
     "title": "International Journal of Intercultural Relations",
     "publisher": "Elsevier",
     "field": "PSYCH (GENERAL)",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "1",
-    "points": 2
+    "points": 1
   },
   {
     "title": "International Journal of Internet and Enterprise Management",
@@ -10091,14 +9899,6 @@
     "title": "International Journal of Internet Marketing and Advertising",
     "publisher": "Inderscience Enterprises Ltd.",
     "field": "MKT",
-    "abdc": "C",
-    "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "International Journal of Internet Science",
-    "publisher": "University of Deusto",
-    "field": "INNOV",
     "abdc": "C",
     "ajg": "1",
     "points": 0
@@ -10267,9 +10067,17 @@
     "title": "International Journal of Management Reviews",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
+  },
+  {
+    "title": "International Journal of Management Science and Engineering Management",
+    "publisher": "Taylor & Francis",
+    "field": "OPS&TECH",
+    "abdc": "C",
+    "ajg": "1",
+    "points": 0
   },
   {
     "title": "International Journal of Management, Economics and Social Sciences",
@@ -10336,28 +10144,12 @@
     "points": 0
   },
   {
-    "title": "International Journal of Medical Informatics",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "International Journal of Monetary Economics and Finance",
     "publisher": "Inderscience Enterprises Ltd.",
     "field": "",
     "abdc": "C",
     "ajg": "",
     "points": 0
-  },
-  {
-    "title": "International Journal of Nonprofit and Voluntary Sector Marketing",
-    "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "International Journal of Occupational Safety and Ergonomics",
@@ -10384,10 +10176,10 @@
     "points": 0
   },
   {
-    "title": "International Journal of Organization Theory and Behavior",
-    "publisher": "Emerald",
+    "title": "International Journal of Organization Theory & Behavior",
+    "publisher": "Emerald Publishing",
     "field": "ORG STUD",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -10491,9 +10283,9 @@
     "title": "International Journal of Project Management",
     "publisher": "Elsevier",
     "field": "OPS&TECH",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "2",
-    "points": 3
+    "points": 4
   },
   {
     "title": "International Journal of Project Organisation and Management",
@@ -10627,7 +10419,7 @@
     "title": "International Journal of Small and Medium Enterprises",
     "publisher": "Centre for Research on Islamic Banking & Finance and Business",
     "field": "ENT-SBM",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -10681,7 +10473,7 @@
   },
   {
     "title": "International Journal of Sport Finance",
-    "publisher": "FIT Publishing",
+    "publisher": "Sage Publications",
     "field": "SECTOR",
     "abdc": "C",
     "ajg": "1",
@@ -10792,12 +10584,12 @@
     "points": 2
   },
   {
-    "title": "International Journal of Systems Science: Operations & Logistics",
+    "title": "International Journal of Systems Science: Operations and Logistics",
     "publisher": "Taylor & Francis",
     "field": "OR&MANSCI",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "2",
-    "points": 2
+    "points": 1
   },
   {
     "title": "International Journal of Teaching and Case Studies",
@@ -10864,6 +10656,14 @@
     "points": 0
   },
   {
+    "title": "International Journal of Technology Transfer and Commercialisation",
+    "publisher": "Inderscience Publishers",
+    "field": "INNOV",
+    "abdc": "",
+    "ajg": "1",
+    "points": 0
+  },
+  {
     "title": "International Journal of Technology, Knowledge and Society",
     "publisher": "Common Ground Research Networks",
     "field": "",
@@ -10899,9 +10699,9 @@
     "title": "International Journal of Tourism Cities",
     "publisher": "Emerald Group Publishing",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "International Journal of Tourism Policy",
@@ -10918,14 +10718,6 @@
     "abdc": "A",
     "ajg": "2",
     "points": 3
-  },
-  {
-    "title": "International Journal of Tourism Sciences",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "International Journal of Trade and Global Markets",
@@ -10987,9 +10779,9 @@
     "title": "International Journal of Web Based Communities",
     "publisher": "Inderscience Enterprises Ltd.",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "International Journal of Wine Business Research",
@@ -11073,7 +10865,7 @@
   },
   {
     "title": "International Papers in Political Economy",
-    "publisher": "Palgrave Macmillan",
+    "publisher": "Springer Nature",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -11083,9 +10875,9 @@
     "title": "International Public Management Journal",
     "publisher": "Taylor & Francis Online",
     "field": "PUB SEC",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "3",
-    "points": 2
+    "points": 3
   },
   {
     "title": "International Real Estate Review",
@@ -11115,9 +10907,9 @@
     "title": "International Review of Administrative Sciences",
     "publisher": "Sage Publications",
     "field": "PUB SEC",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "3",
-    "points": 2
+    "points": 3
   },
   {
     "title": "International Review of Applied Economics",
@@ -11203,9 +10995,9 @@
     "title": "International Review of Law, Computers and Technology",
     "publisher": "Taylor & Francis Online",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "International Review of Public Administration",
@@ -11283,9 +11075,9 @@
     "title": "International Tax and Public Finance",
     "publisher": "Springer International Publishing",
     "field": "FINANCE",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "International Tax Journal",
@@ -11361,11 +11153,11 @@
   },
   {
     "title": "Investment Management and Financial Innovations",
-    "publisher": "Business Perspectives Ltd",
+    "publisher": "Business Perspectives",
     "field": "FINANCE",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "1",
-    "points": 1
+    "points": 0
   },
   {
     "title": "IPPR Progressive Review",
@@ -11440,8 +11232,16 @@
     "points": 0
   },
   {
-    "title": "ITE Journal",
-    "publisher": "Institute of Transportation Engineers",
+    "title": "Italian Economic Journal",
+    "publisher": "Springer Nature",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
+    "title": "Italian Journal of Marketing",
+    "publisher": "Springer Nature Switzerland AG",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -11518,6 +11318,14 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
+  },
+  {
+    "title": "Jindal Global Law Review",
+    "publisher": "Springer Nature",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Journal Ensayos Sobre Politica Economica (ESPE) / Essays on Economic Policy",
@@ -11616,6 +11424,14 @@
     "points": 7
   },
   {
+    "title": "Journal of Accounting and Finance in Emerging Economies",
+    "publisher": "CSRC Publishing",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Journal of Accounting and Management Information Systems (JAMIS)",
     "publisher": "Bucharest University of Economic Studies",
     "field": "ACCOUNT",
@@ -11627,9 +11443,9 @@
     "title": "Journal of Accounting and Public Policy",
     "publisher": "Elsevier",
     "field": "ACCOUNT",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Journal of Accounting Auditing and Finance",
@@ -11657,7 +11473,7 @@
   },
   {
     "title": "Journal of Accounting Literature",
-    "publisher": "Elsevier",
+    "publisher": "Emerald Group Publishing",
     "field": "ACCOUNT",
     "abdc": "A",
     "ajg": "3",
@@ -11670,6 +11486,22 @@
     "abdc": "A*",
     "ajg": "4*",
     "points": 7
+  },
+  {
+    "title": "Journal of Accounting Review",
+    "publisher": "National Chengchi University, Taiwan.",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Journal of Accounting, Auditing and Business",
+    "publisher": "Universitas Padjadjaran, Indonesia",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Journal of Accounting, Business and Management",
@@ -11691,9 +11523,9 @@
     "title": "Journal of Advanced Transportation",
     "publisher": "Hindawi",
     "field": "",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "",
-    "points": 4
+    "points": 2
   },
   {
     "title": "Journal of Advances in Management Research",
@@ -11721,7 +11553,7 @@
   },
   {
     "title": "Journal of Advertising Research",
-    "publisher": "World Advertising Research Center",
+    "publisher": "Taylor & Francis Online",
     "field": "MKT",
     "abdc": "A",
     "ajg": "3",
@@ -11840,14 +11672,6 @@
     "points": 0
   },
   {
-    "title": "Journal of Applied Communication Research",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Journal of Applied Corporate Finance",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "FINANCE",
@@ -11920,14 +11744,6 @@
     "points": 7
   },
   {
-    "title": "Journal of Applied Research in Accounting and Finance",
-    "publisher": "The University of Sydney Business School",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Applied Social Psychology",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "PSYCH (WOP-OB)",
@@ -11985,7 +11801,7 @@
   },
   {
     "title": "Journal of Asia Entrepreneurship and Sustainability",
-    "publisher": "RossiSmith Academic Publishing",
+    "publisher": "Asia Academic Press",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -12043,9 +11859,9 @@
     "title": "Journal of Australian Taxation",
     "publisher": "Monash University",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "Journal of Banking & Finance",
@@ -12224,6 +12040,14 @@
     "points": 2
   },
   {
+    "title": "Journal of Business Economics",
+    "publisher": "Springer Nature",
+    "field": "ECON",
+    "abdc": "B",
+    "ajg": "2",
+    "points": 2
+  },
+  {
     "title": "Journal of Business Economics and Management",
     "publisher": "Taylor & Francis Online",
     "field": "IB&AREA",
@@ -12273,9 +12097,9 @@
   },
   {
     "title": "Journal of Business Models",
-    "publisher": "Business Design Lab",
+    "publisher": "Emerald Publishing",
     "field": "STRAT",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -12294,6 +12118,14 @@
     "abdc": "B",
     "ajg": "1",
     "points": 1
+  },
+  {
+    "title": "Journal of Business Studies",
+    "publisher": "Faculty of Management Studies & Commerce University of Jaffna - Sri Lanka",
+    "field": "SECTOR",
+    "abdc": "C",
+    "ajg": "1",
+    "points": 0
   },
   {
     "title": "Journal of Business Thought",
@@ -12352,6 +12184,14 @@
     "points": 1
   },
   {
+    "title": "Journal of Case Studies",
+    "publisher": "Society for Case Research",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Journal of Cases on Information Technology",
     "publisher": "IGI Global",
     "field": "INFO MAN",
@@ -12403,17 +12243,17 @@
     "title": "Journal of Choice Modelling",
     "publisher": "Elsevier",
     "field": "ECON",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "1",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Journal of Cleaner Production",
     "publisher": "Elsevier",
     "field": "SECTOR",
-    "abdc": "A",
+    "abdc": "C",
     "ajg": "1",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Journal of Co-operative Organization and Management",
@@ -12491,9 +12331,9 @@
     "title": "Journal of Community Informatics",
     "publisher": "Community Informatics Research Network",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Journal of Community Psychology",
@@ -12560,14 +12400,6 @@
     "points": 0
   },
   {
-    "title": "Journal of Computer and System Sciences",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Computer Information Systems",
     "publisher": "Taylor & Francis Online",
     "field": "INFO MAN",
@@ -12608,28 +12440,12 @@
     "points": 4
   },
   {
-    "title": "Journal of Construction Procurement",
-    "publisher": "International Procurement Research Group",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Constructivist Psychology",
     "publisher": "Taylor & Francis Online",
     "field": "PSYCH (GENERAL)",
     "abdc": "B",
     "ajg": "1",
     "points": 1
-  },
-  {
-    "title": "Journal of Consulting and Clinical Psychology",
-    "publisher": "American Psychological Association",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Journal of Consumer Affairs",
@@ -12683,9 +12499,9 @@
     "title": "Journal of Consumer Satisfaction, Dissatisfaction and Complaining Behavior",
     "publisher": "Consumer Satisfaction, Dissatisfaction, and Complaining Behavior, Inc",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Journal of Contemporary Accounting and Economics",
@@ -12763,9 +12579,9 @@
     "title": "Journal of Corporation Law",
     "publisher": "University of Iowa College of Law",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "Journal of Cost & Management",
@@ -12776,19 +12592,19 @@
     "points": 0
   },
   {
-    "title": "Journal of Cost Analysis and Parametrics",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
+    "title": "Journal of Creating Value",
+    "publisher": "Sage Publications",
+    "field": "ETHICS-CSR-MAN",
     "abdc": "C",
-    "ajg": "",
+    "ajg": "1",
     "points": 0
   },
   {
-    "title": "Journal of Creating Value",
-    "publisher": "SAGE",
-    "field": "ETHICS-CSR-MAN",
-    "abdc": "",
-    "ajg": "1",
+    "title": "Journal of Creative Communications",
+    "publisher": "Sage Publications",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
     "points": 0
   },
   {
@@ -12865,7 +12681,7 @@
   },
   {
     "title": "Journal of Database Marketing & Customer Strategy Management",
-    "publisher": "Palgrave Macmillan",
+    "publisher": "Springer Nature",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -12936,6 +12752,14 @@
     "points": 0
   },
   {
+    "title": "Journal of Digital Economy",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
     "title": "Journal of Documentation",
     "publisher": "Emerald Group Publishing",
     "field": "INFO MAN",
@@ -12993,7 +12817,7 @@
   },
   {
     "title": "Journal of Economic and Social Measurement",
-    "publisher": "IOS Press",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -13192,6 +13016,14 @@
     "points": 2
   },
   {
+    "title": "Journal of Economics and Development",
+    "publisher": "Emerald Publishing",
+    "field": "ECON",
+    "abdc": "C",
+    "ajg": "1",
+    "points": 0
+  },
+  {
     "title": "Journal of Economics and Finance",
     "publisher": "Springer International Publishing",
     "field": "FINANCE",
@@ -13286,6 +13118,14 @@
     "abdc": "B",
     "ajg": "1",
     "points": 1
+  },
+  {
+    "title": "Journal of Electronic Business & Digital Economics",
+    "publisher": "Emerald Publishing",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Journal of Electronic Commerce in Organizations",
@@ -13435,9 +13275,9 @@
     "title": "Journal of Entrepreneurship in Emerging Economies",
     "publisher": "Emerald Group Publishing",
     "field": "ENT-SBM",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Journal of Entrepreneurship, Management and Innovation",
@@ -13472,26 +13312,18 @@
     "points": 2
   },
   {
-    "title": "Journal of Environmental Management",
-    "publisher": "Elsevier",
-    "field": "SOC SCI",
-    "abdc": "A",
-    "ajg": "3",
-    "points": 4
-  },
-  {
     "title": "Journal of Environmental Planning and Management",
     "publisher": "Taylor & Francis Online",
-    "field": "",
+    "field": "SOC SCI",
     "abdc": "B",
-    "ajg": "",
-    "points": 2
+    "ajg": "3",
+    "points": 3
   },
   {
     "title": "Journal of Environmental Psychology",
     "publisher": "Elsevier",
     "field": "PSYCH (GENERAL)",
-    "abdc": "",
+    "abdc": "A",
     "ajg": "3",
     "points": 4
   },
@@ -13643,9 +13475,9 @@
     "title": "Journal of Financial Counseling and Planning",
     "publisher": "Springer Publishing Company",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Journal of Financial Crime",
@@ -13747,9 +13579,9 @@
     "title": "Journal of Financial Regulation and Compliance",
     "publisher": "Emerald Group Publishing",
     "field": "FINANCE",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Journal of Financial Reporting",
@@ -13777,7 +13609,7 @@
   },
   {
     "title": "Journal of Financial Services Marketing",
-    "publisher": "Palgrave Macmillan Ltd.",
+    "publisher": "Springer Nature",
     "field": "MKT",
     "abdc": "B",
     "ajg": "1",
@@ -13795,9 +13627,9 @@
     "title": "Journal of Financial Stability",
     "publisher": "Elsevier",
     "field": "FINANCE",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Journal of Food Distribution Research",
@@ -13814,14 +13646,6 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
-  },
-  {
-    "title": "Journal of Foodservice",
-    "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Journal of Foodservice Business Research",
@@ -13880,14 +13704,6 @@
     "points": 0
   },
   {
-    "title": "Journal of Gambling Issues",
-    "publisher": "Centre for Addiction & Mental Health",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Journal of Gambling Studies",
     "publisher": "Springer International Publishing",
     "field": "",
@@ -13899,9 +13715,9 @@
     "title": "Journal of General Management",
     "publisher": "Sage Publications",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "1",
-    "points": 1
+    "points": 0
   },
   {
     "title": "Journal of Geographical Systems",
@@ -13914,10 +13730,10 @@
   {
     "title": "Journal of Global Business and Economics",
     "publisher": "Global Institute of Flexible Systems Management",
-    "field": "ECON",
+    "field": "",
     "abdc": "C",
-    "ajg": "2",
-    "points": 1
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Journal of Global Economic Analysis",
@@ -14072,6 +13888,14 @@
     "points": 2
   },
   {
+    "title": "Journal of Healthcare Management",
+    "publisher": "American College of Healthcare Executives",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Journal of Heritage Tourism",
     "publisher": "Taylor & Francis Online",
     "field": "SECTOR",
@@ -14086,6 +13910,14 @@
     "abdc": "",
     "ajg": "3",
     "points": 4
+  },
+  {
+    "title": "Journal of High Technology Management Research",
+    "publisher": "Elsevier",
+    "field": "INNOV",
+    "abdc": "",
+    "ajg": "2",
+    "points": 2
   },
   {
     "title": "Journal of Higher Education",
@@ -14112,6 +13944,14 @@
     "points": 1
   },
   {
+    "title": "Journal of Hospitality & Tourism Cases",
+    "publisher": "Sage Publications",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Journal of Hospitality and Tourism Education",
     "publisher": "Taylor & Francis Online",
     "field": "SECTOR",
@@ -14123,17 +13963,17 @@
     "title": "Journal of Hospitality and Tourism Insights",
     "publisher": "Emerald Group Publishing",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Journal of Hospitality and Tourism Management",
     "publisher": "Elsevier",
     "field": "SECTOR",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "2",
-    "points": 3
+    "points": 4
   },
   {
     "title": "Journal of Hospitality and Tourism Research",
@@ -14150,14 +13990,6 @@
     "abdc": "B",
     "ajg": "1",
     "points": 1
-  },
-  {
-    "title": "Journal of Hospitality Application and Research",
-    "publisher": "Birla Institute of Technology",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Journal of Hospitality Marketing and Management",
@@ -14208,14 +14040,6 @@
     "points": 2
   },
   {
-    "title": "Journal of Human Resource Costing and Accounting",
-    "publisher": "Emerald Group Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Human Resources",
     "publisher": "The University of Wisconsin Press",
     "field": "ECON",
@@ -14243,9 +14067,9 @@
     "title": "Journal of Humanitarian Logistics and Supply Chain Management",
     "publisher": "Emerald Group Publishing Limited",
     "field": "OPS&TECH",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Journal of Humanities and Applied Social Sciences",
@@ -14265,7 +14089,7 @@
   },
   {
     "title": "Journal of Index Investing",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -14278,6 +14102,22 @@
     "abdc": "C",
     "ajg": "1",
     "points": 0
+  },
+  {
+    "title": "Journal of Indonesian Economy and Business",
+    "publisher": "Universitas Gadjah Mada",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Journal of Industrial and Business Economics",
+    "publisher": "Springer Nature",
+    "field": "ECON",
+    "abdc": "B",
+    "ajg": "1",
+    "points": 1
   },
   {
     "title": "Journal of Industrial and Management Optimization",
@@ -14320,24 +14160,8 @@
     "points": 1
   },
   {
-    "title": "Journal of Informatics Education and Research",
-    "publisher": "Center for Research and Management Services",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Information and Knowledge Management",
     "publisher": "World Scientific Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Journal of Information and Optimization Sciences",
-    "publisher": "Taylor & Francis Online",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -14376,14 +14200,6 @@
     "points": 1
   },
   {
-    "title": "Journal of Information Systems Security",
-    "publisher": "London School of Economics and Political Science",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Information Technology",
     "publisher": "Sage Publications",
     "field": "INFO MAN",
@@ -14416,14 +14232,6 @@
     "points": 0
   },
   {
-    "title": "Journal of Information Technology Theory and Application",
-    "publisher": "Association for Information Systems (AIS)",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Journal of Informetrics",
     "publisher": "Elsevier",
     "field": "INFO MAN",
@@ -14435,9 +14243,9 @@
     "title": "Journal of Innovation & Knowledge",
     "publisher": "Elsevier",
     "field": "INNOV",
-    "abdc": "A",
+    "abdc": "C",
     "ajg": "1",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Journal of Innovation Economics",
@@ -14467,9 +14275,9 @@
     "title": "Journal of Institutional and Theoretical Economics",
     "publisher": "Mohr Siebeck GmbH & Co. KG",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "2",
-    "points": 3
+    "points": 2
   },
   {
     "title": "Journal of Institutional Economics",
@@ -14496,7 +14304,7 @@
     "points": 2
   },
   {
-    "title": "Journal of Intellectual Property Law and Practice",
+    "title": "Journal of Intellectual Property Law & Practice",
     "publisher": "Oxford University Press",
     "field": "",
     "abdc": "B",
@@ -14506,10 +14314,10 @@
   {
     "title": "Journal of Intelligent Information Systems",
     "publisher": "Springer International Publishing",
-    "field": "",
+    "field": "INFO MAN",
     "abdc": "B",
-    "ajg": "",
-    "points": 2
+    "ajg": "1",
+    "points": 1
   },
   {
     "title": "Journal of Intelligent Manufacturing",
@@ -14528,14 +14336,6 @@
     "points": 2
   },
   {
-    "title": "Journal of Inter-Organizational Relationships",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Journal of Interactive Advertising",
     "publisher": "Taylor & Francis Online",
     "field": "MKT",
@@ -14545,11 +14345,19 @@
   },
   {
     "title": "Journal of Interactive Marketing",
-    "publisher": "Elsevier",
+    "publisher": "Sage Publications",
     "field": "MKT",
     "abdc": "A",
     "ajg": "3",
     "points": 4
+  },
+  {
+    "title": "Journal of Intercultural Communication",
+    "publisher": "ICR Publishing Group",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Journal of Interdisciplinary Economics",
@@ -14600,12 +14408,20 @@
     "points": 0
   },
   {
+    "title": "Journal of International Business Education",
+    "publisher": "NeilsonJournals Publishing",
+    "field": "MDEV&EDU",
+    "abdc": "C",
+    "ajg": "2",
+    "points": 1
+  },
+  {
     "title": "Journal of International Business Policy",
     "publisher": "Springer Nature",
     "field": "IB&AREA",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "3",
-    "points": 4
+    "points": 3
   },
   {
     "title": "Journal of International Business Studies",
@@ -14621,14 +14437,6 @@
     "field": "",
     "abdc": "C",
     "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Journal of International Commercial Law and Technology",
-    "publisher": "International Association of IT Lawyers",
-    "field": "INNOV",
-    "abdc": "C",
-    "ajg": "1",
     "points": 0
   },
   {
@@ -14658,9 +14466,9 @@
   {
     "title": "Journal of International Economic Studies",
     "publisher": "Hosei Institute of Comparative Economic Studies",
-    "field": "SOC SCI",
+    "field": "",
     "abdc": "C",
-    "ajg": "1",
+    "ajg": "",
     "points": 0
   },
   {
@@ -14699,9 +14507,9 @@
     "title": "Journal of International Financial Management and Accounting",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "ACCOUNT",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Journal of International Financial Markets, Institutions and Money",
@@ -14769,7 +14577,7 @@
   },
   {
     "title": "Journal of International Relations and Development",
-    "publisher": "Palgrave Macmillan Ltd.",
+    "publisher": "Springer Nature",
     "field": "ECON",
     "abdc": "C",
     "ajg": "1",
@@ -14792,14 +14600,6 @@
     "points": 0
   },
   {
-    "title": "Journal of Internet Banking and Commerce",
-    "publisher": "ARRAY Development",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Internet Commerce",
     "publisher": "Taylor & Francis Online",
     "field": "INFO MAN",
@@ -14809,7 +14609,7 @@
   },
   {
     "title": "Journal of Investing",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "B",
     "ajg": "1",
@@ -14883,9 +14683,9 @@
     "title": "Journal of Knowledge Management Practice",
     "publisher": "Leadership Alliance Inc.",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Journal of Korea Trade",
@@ -14921,9 +14721,9 @@
   },
   {
     "title": "Journal of Language and Social Psychology",
-    "publisher": "Sage Publications",
+    "publisher": "SAGE",
     "field": "PSYCH (GENERAL)",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "2",
     "points": 2
   },
@@ -14979,9 +14779,9 @@
     "title": "Journal of Leadership and Organizational Studies",
     "publisher": "Sage Publications",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "Journal of Leadership Studies",
@@ -15032,14 +14832,6 @@
     "points": 4
   },
   {
-    "title": "Journal of Librarianship and Information Science",
-    "publisher": "Sage Publications",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Journal of Macroeconomics",
     "publisher": "Elsevier",
     "field": "ECON",
@@ -15075,9 +14867,9 @@
     "title": "Journal of Management & Organization",
     "publisher": "Cambridge University Press",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Journal of Management Accounting Research",
@@ -15091,9 +14883,9 @@
     "title": "Journal of Management Analytics",
     "publisher": "Taylor & Francis Ltd.",
     "field": "OR&MANSCI",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Journal of Management and Governance",
@@ -15232,28 +15024,12 @@
     "points": 7
   },
   {
-    "title": "Journal of Marketing & Social Research",
-    "publisher": "Asian Society of Management & Marketing Research (ASMMR)",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Marketing Analytics",
-    "publisher": "Palgrave Macmillan Ltd.",
+    "publisher": "Springer Nature",
     "field": "MKT",
     "abdc": "C",
     "ajg": "1",
     "points": 0
-  },
-  {
-    "title": "Journal of Marketing Behaviour",
-    "publisher": "Now Publishers",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Journal of Marketing Communications",
@@ -15336,14 +15112,6 @@
     "points": 0
   },
   {
-    "title": "Journal of Media Business Studies",
-    "publisher": "Taylor & Francis",
-    "field": "SECTOR",
-    "abdc": "",
-    "ajg": "1",
-    "points": 0
-  },
-  {
     "title": "Journal of Media Economics",
     "publisher": "Taylor & Francis Online",
     "field": "ECON",
@@ -15416,14 +15184,6 @@
     "points": 6
   },
   {
-    "title": "Journal of Money, Investment and Banking",
-    "publisher": "Social Science Electronic Publishing, Inc.",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Multi-Criteria Decision Analysis",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "OR&MANSCI",
@@ -15480,6 +15240,14 @@
     "points": 2
   },
   {
+    "title": "Journal of Nursing Management",
+    "publisher": "John Wiley & Sons",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Journal of Occupational and Environmental Medicine",
     "publisher": "Wolters Kluwer Health",
     "field": "PSYCH (WOP-OB)",
@@ -15491,9 +15259,9 @@
     "title": "Journal of Occupational and Organizational Psychology",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "PSYCH (WOP-OB)",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4",
-    "points": 5
+    "points": 6
   },
   {
     "title": "Journal of Occupational Health Psychology",
@@ -15601,9 +15369,9 @@
   },
   {
     "title": "Journal of Organizational Ethnography",
-    "publisher": "Emerald",
+    "publisher": "Emerald Publishing",
     "field": "ORG STUD",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -15611,9 +15379,9 @@
     "title": "Journal of Outdoor Recreation and Tourism",
     "publisher": "Elsevier",
     "field": "SECTOR",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Journal of Pacific Rim Psychology",
@@ -15688,14 +15456,6 @@
     "points": 6
   },
   {
-    "title": "Journal of Personality Assessment",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Journal of Personnel Psychology",
     "publisher": "American Psychological Association",
     "field": "PSYCH (WOP-OB)",
@@ -15760,6 +15520,22 @@
     "points": 7
   },
   {
+    "title": "Journal of Political Economy: Macroeconomics",
+    "publisher": "University of Chicago Press",
+    "field": "",
+    "abdc": "A",
+    "ajg": "",
+    "points": 4
+  },
+  {
+    "title": "Journal of Political Economy: Microeconomics",
+    "publisher": "University of Chicago Press",
+    "field": "",
+    "abdc": "A",
+    "ajg": "",
+    "points": 4
+  },
+  {
     "title": "Journal of Political Marketing",
     "publisher": "Taylor & Francis Online",
     "field": "",
@@ -15779,9 +15555,9 @@
     "title": "Journal of Population Economics",
     "publisher": "Springer International Publishing",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Journal of Population Research",
@@ -15977,7 +15753,7 @@
   },
   {
     "title": "Journal of Public Transportation",
-    "publisher": "University of South Florida",
+    "publisher": "Elsevier",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -16096,14 +15872,6 @@
     "points": 1
   },
   {
-    "title": "Journal of Research and Practice in Information Technology",
-    "publisher": "Australian Computer Society",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of Research for Consumers",
     "publisher": "University of Canterbury",
     "field": "",
@@ -16131,17 +15899,9 @@
     "title": "Journal of Research in Personality",
     "publisher": "Elsevier",
     "field": "",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "",
-    "points": 4
-  },
-  {
-    "title": "Journal of Research on Technology in Education",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Journal of Responsible Innovation",
@@ -16169,7 +15929,7 @@
   },
   {
     "title": "Journal of Retirement",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "ECON",
     "abdc": "B",
     "ajg": "1",
@@ -16189,14 +15949,6 @@
     "field": "FINANCE",
     "abdc": "B",
     "ajg": "2",
-    "points": 2
-  },
-  {
-    "title": "Journal of Risk and Financial Management",
-    "publisher": "MDPI",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
     "points": 2
   },
   {
@@ -16251,9 +16003,9 @@
     "title": "Journal of Scheduling",
     "publisher": "Springer International Publishing",
     "field": "OPS&TECH",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "1",
-    "points": 2
+    "points": 1
   },
   {
     "title": "Journal of School Psychology",
@@ -16339,9 +16091,9 @@
     "title": "Journal of Small Business and Entrepreneurship",
     "publisher": "Taylor & Francis Online",
     "field": "ENT-SBM",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Journal of Small Business Management",
@@ -16362,9 +16114,9 @@
   {
     "title": "Journal of Social and Economic Development",
     "publisher": "Springer International Publishing",
-    "field": "ECON",
+    "field": "",
     "abdc": "C",
-    "ajg": "1",
+    "ajg": "",
     "points": 0
   },
   {
@@ -16424,14 +16176,6 @@
     "points": 2
   },
   {
-    "title": "Journal of Software: Evolution and Process",
-    "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of South Asian Development",
     "publisher": "Sage Publications",
     "field": "",
@@ -16450,14 +16194,6 @@
   {
     "title": "Journal of Southeast Asian Studies",
     "publisher": "Cambridge University Press",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Journal of Sponsorship",
-    "publisher": "Henry Stewart Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -16561,11 +16297,19 @@
   },
   {
     "title": "Journal of Statistical Theory and Applications",
-    "publisher": "Atlantis Press",
+    "publisher": "Springer International Publishing",
     "field": "",
     "abdc": "C",
     "ajg": "",
     "points": 0
+  },
+  {
+    "title": "Journal of Statistics and Data Science Education",
+    "publisher": "Taylor & Francis Online",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
   },
   {
     "title": "Journal of Statistics and Management Systems",
@@ -16574,14 +16318,6 @@
     "abdc": "C",
     "ajg": "1",
     "points": 0
-  },
-  {
-    "title": "Journal of Statistics Education",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Journal of Strategic Contracting and Negotiation",
@@ -16608,12 +16344,20 @@
     "points": 3
   },
   {
+    "title": "Journal of Strategy & Innovation",
+    "publisher": "Elsevier",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Journal of Strategy and Management",
     "publisher": "Emerald Group Publishing",
     "field": "STRAT",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Journal of Studies in International Education",
@@ -16627,16 +16371,24 @@
     "title": "Journal of Supply Chain Management",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "OPS&TECH",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4",
-    "points": 5
+    "points": 6
   },
   {
-    "title": "Journal of Sustainable Finance and Investment",
+    "title": "Journal of Sustainable Finance & Investment",
     "publisher": "Taylor & Francis",
     "field": "FINANCE",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "1",
+    "points": 1
+  },
+  {
+    "title": "Journal of Sustainable Real Estate",
+    "publisher": "Taylor & Francis",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
     "points": 0
   },
   {
@@ -16659,17 +16411,9 @@
     "title": "Journal of Systems and Software",
     "publisher": "Elsevier",
     "field": "INFO MAN",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "2",
     "points": 2
-  },
-  {
-    "title": "Journal of Targeting, Measurement and Analysis for Marketing",
-    "publisher": "Henry Stewart Publications",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Journal of Tax Administration",
@@ -16705,7 +16449,7 @@
   },
   {
     "title": "Journal of Teaching in Travel & Tourism",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Taylor & Francis",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -16731,9 +16475,9 @@
     "title": "Journal of Technology Transfer",
     "publisher": "Springer International Publishing",
     "field": "INNOV",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "3",
-    "points": 3
+    "points": 4
   },
   {
     "title": "Journal of the Academy of Marketing Science",
@@ -16742,22 +16486,6 @@
     "abdc": "A*",
     "ajg": "4*",
     "points": 7
-  },
-  {
-    "title": "Journal of the ACM",
-    "publisher": "Association for Computing Machinery",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Journal of the American Medical Informatics Association",
-    "publisher": "Oxford University Press",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
   },
   {
     "title": "Journal of the American Statistical Association",
@@ -16776,14 +16504,6 @@
     "points": 4
   },
   {
-    "title": "Journal of the Asia Pacific Centre for Environmental Accountability",
-    "publisher": "The University of South Australia",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of the Asia Pacific Economy",
     "publisher": "Taylor & Francis Online",
     "field": "ECON",
@@ -16800,12 +16520,12 @@
     "points": 2
   },
   {
-    "title": "Journal of the Association for Information Science and Technology",
-    "publisher": "Wiley-Blackwell Publishing",
+    "title": "Journal of the Association for Information Science and Technology (JASIST)",
+    "publisher": "Wiley-Blackwell",
     "field": "INFO MAN",
-    "abdc": "A*",
+    "abdc": "",
     "ajg": "3",
-    "points": 5
+    "points": 4
   },
   {
     "title": "Journal of the Association for Information Systems",
@@ -16819,9 +16539,9 @@
     "title": "Journal of the Association of Environmental and Resource Economists",
     "publisher": "University of Chicago Press",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Journal of the Australasian Law Academics Association",
@@ -16872,8 +16592,8 @@
     "points": 2
   },
   {
-    "title": "Journal of the International Academy of Hospitality Research",
-    "publisher": "International Academy of Hospitality Research",
+    "title": "Journal of the International Council for Small Business",
+    "publisher": "Taylor & Francis",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -16976,14 +16696,6 @@
     "points": 0
   },
   {
-    "title": "Journal of the Transportation Research Forum",
-    "publisher": "Transportation Research Forum (TRF), Washington, D.C.",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Journal of the UK Association of Christian Economists",
     "publisher": "Association of Christian Economics",
     "field": "",
@@ -16993,11 +16705,11 @@
   },
   {
     "title": "Journal of Theoretical and Applied Electronic Commerce Research",
-    "publisher": "Universidad de Talca - Chile",
+    "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
     "field": "INFO MAN",
-    "abdc": "B",
+    "abdc": "",
     "ajg": "1",
-    "points": 1
+    "points": 0
   },
   {
     "title": "Journal of Theoretical Probability",
@@ -17032,8 +16744,16 @@
     "points": 2
   },
   {
-    "title": "Journal of Tourism Challenges and Trends",
-    "publisher": "Romanian-American Association of Project Managers for Education and Research",
+    "title": "Journal of Tourism and Development (REVISTA TURISMO & DESENVOLVIMENTO - RT&D)",
+    "publisher": "University of Aveiro",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Journal of Tourism and Services",
+    "publisher": "Center for International Scientific Research of VŠO and VŠPP , Czech",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -17043,13 +16763,29 @@
     "title": "Journal of Tourism Futures",
     "publisher": "Emerald Group Publishing",
     "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
+    "title": "Journal of Tourism History",
+    "publisher": "Taylor & Francis Online",
+    "field": "",
     "abdc": "C",
     "ajg": "",
     "points": 0
   },
   {
-    "title": "Journal of Tourism History",
-    "publisher": "Taylor & Francis Online",
+    "title": "Journal of Tourism, Heritage & Services Marketing",
+    "publisher": "International Hellenic University",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Journal of Tourism, Sustainability and Well-being",
+    "publisher": "University of Algarve",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -17107,25 +16843,9 @@
     "title": "Journal of Transport, Economics and Policy",
     "publisher": "University of Bath",
     "field": "SECTOR",
-    "abdc": "A",
-    "ajg": "1",
-    "points": 2
-  },
-  {
-    "title": "Journal of Transportation and Statistics",
-    "publisher": "Bureau of Transportation Statistics",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Journal of Transportation Engineering",
-    "publisher": "American Society of Civil Engineers",
-    "field": "",
     "abdc": "B",
-    "ajg": "",
-    "points": 2
+    "ajg": "1",
+    "points": 1
   },
   {
     "title": "Journal of Transportation Law, Logistics and Policy",
@@ -17138,14 +16858,6 @@
   {
     "title": "Journal of Transportation Security",
     "publisher": "Springer International Publishing",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
-    "title": "Journal of Transportation System Engineering and Information Technology",
-    "publisher": "Society of Chinese System Engineering",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -17182,6 +16894,14 @@
     "abdc": "B",
     "ajg": "1",
     "points": 1
+  },
+  {
+    "title": "Journal of University Teaching and Learning Practice",
+    "publisher": "",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Journal of Urban Affairs",
@@ -17296,6 +17016,22 @@
     "points": 2
   },
   {
+    "title": "Jurnal Akuntansi dan Keuangan Indonesia",
+    "publisher": "Universitas Indonesia",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Jurnal Akuntansi Multiparadigma",
+    "publisher": "Universitas Brawijaya, Indonesia",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Keio Economic Studies",
     "publisher": "Japan Publications Trading Co. Ltd",
     "field": "",
@@ -17352,14 +17088,6 @@
     "points": 2
   },
   {
-    "title": "Knowledge-Based Systems",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Kobe Economic and Business Review",
     "publisher": "Kobe University",
     "field": "",
@@ -17386,6 +17114,14 @@
   {
     "title": "Korea Review of International Studies",
     "publisher": "Global Research Institute Korea University",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Korean Accounting Review",
+    "publisher": "The Korean Accounting Association",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -17467,9 +17203,9 @@
     "title": "Labour Economics",
     "publisher": "Elsevier",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Labour History Review",
@@ -17640,10 +17376,10 @@
     "points": 0
   },
   {
-    "title": "Letters in Spatial and Resource Sciences",
+    "title": "Letters in Spatial and Resource Science",
     "publisher": "Springer Nature",
     "field": "REGIONAL STUDIES, PLANNING AND ENVIRONMENT",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -17715,9 +17451,9 @@
     "title": "Long Range Planning",
     "publisher": "Elsevier",
     "field": "STRAT",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4",
-    "points": 5
+    "points": 6
   },
   {
     "title": "M@n@gement",
@@ -17798,6 +17534,14 @@
     "abdc": "C",
     "ajg": "2",
     "points": 1
+  },
+  {
+    "title": "Management & Sustainability: An Arab Review",
+    "publisher": "Emerald Publishing",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Management Accounting Frontiers",
@@ -18361,7 +18105,7 @@
   },
   {
     "title": "Model Assisted Statistics and Applications",
-    "publisher": "IOS Press",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -18432,28 +18176,12 @@
     "points": 1
   },
   {
-    "title": "Multivariate Behavioral Research",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Museum Management and Curatorship",
     "publisher": "Taylor & Francis",
     "field": "SECTOR",
     "abdc": "",
     "ajg": "2",
     "points": 2
-  },
-  {
-    "title": "Mustang Journal of Accounting and Finance",
-    "publisher": "Mustang Journals",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Narrative Inquiry",
@@ -18529,7 +18257,7 @@
   },
   {
     "title": "Negotiation Journal",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "MIT Press",
     "field": "ORG STUD",
     "abdc": "B",
     "ajg": "2",
@@ -18640,6 +18368,14 @@
     "points": 2
   },
   {
+    "title": "New Zealand Journal of Applied Business Research",
+    "publisher": "Unitec",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "New Zealand Journal of Employment Relations",
     "publisher": "ER Publishing Ltd.",
     "field": "",
@@ -18698,6 +18434,14 @@
   {
     "title": "New Zealand Yearbook of International Law",
     "publisher": "University of Canterbury",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "NMIMS Management Review",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -18931,9 +18675,9 @@
     "title": "Operations Research Letters",
     "publisher": "Elsevier",
     "field": "OR&MANSCI",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "2",
-    "points": 3
+    "points": 2
   },
   {
     "title": "Opsearch",
@@ -18955,9 +18699,9 @@
     "title": "Optimization",
     "publisher": "Taylor & Francis Online",
     "field": "OR&MANSCI",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "1",
-    "points": 1
+    "points": 0
   },
   {
     "title": "OR Spectrum",
@@ -19003,9 +18747,9 @@
     "title": "Organization Management Journal",
     "publisher": "Taylor & Francis Online",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Organization Science",
@@ -19022,6 +18766,14 @@
     "abdc": "A*",
     "ajg": "4",
     "points": 6
+  },
+  {
+    "title": "Organization Theory",
+    "publisher": "Sage Publications",
+    "field": "",
+    "abdc": "A",
+    "ajg": "",
+    "points": 4
   },
   {
     "title": "Organizational Behavior and Human Decision Processes",
@@ -19185,7 +18937,7 @@
   },
   {
     "title": "Pacific Rim Property Research Journal",
-    "publisher": "Taylor & Francis Online",
+    "publisher": "Pacific Rim Real Estate Society",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -19288,14 +19040,6 @@
     "points": 0
   },
   {
-    "title": "Personal and Ubiquitous Computing",
-    "publisher": "Springer International Publishing",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Personality and Individual Differences",
     "publisher": "Elsevier",
     "field": "PSYCH (GENERAL)",
@@ -19310,14 +19054,6 @@
     "abdc": "A*",
     "ajg": "4",
     "points": 6
-  },
-  {
-    "title": "Personality and Social Psychology Review",
-    "publisher": "Sage Publications",
-    "field": "",
-    "abdc": "A*",
-    "ajg": "",
-    "points": 5
   },
   {
     "title": "Personnel Psychology",
@@ -19368,14 +19104,6 @@
     "points": 0
   },
   {
-    "title": "Petroleum Accounting and Financial Management Journal",
-    "publisher": "Institute of Petroleum Accounting",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "PharmacoEconomics",
     "publisher": "Springer International Publishing",
     "field": "ECON",
@@ -19411,9 +19139,9 @@
     "title": "Philosophy of Management",
     "publisher": "Springer International Publishing",
     "field": "SOC SCI",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Philosophy of the Social Sciences",
@@ -19438,14 +19166,6 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
-  },
-  {
-    "title": "Poetics",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
   },
   {
     "title": "Policing",
@@ -19481,7 +19201,7 @@
   },
   {
     "title": "Policy and Society",
-    "publisher": "Taylor & Francis Online",
+    "publisher": "Oxford University Press",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -19537,7 +19257,7 @@
   },
   {
     "title": "Political Science Quarterly",
-    "publisher": "Academy of Political Science",
+    "publisher": "Oxford University Press",
     "field": "",
     "abdc": "A",
     "ajg": "",
@@ -19611,9 +19331,9 @@
     "title": "Population Bulletin",
     "publisher": "Population Reference Bureau",
     "field": "",
-    "abdc": "A",
+    "abdc": "C",
     "ajg": "",
-    "points": 4
+    "points": 0
   },
   {
     "title": "Population Research and Policy Review",
@@ -19729,7 +19449,7 @@
   },
   {
     "title": "Production and Operations Management",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Sage Publications",
     "field": "OPS&TECH",
     "abdc": "A*",
     "ajg": "4",
@@ -19760,8 +19480,16 @@
     "points": 4
   },
   {
+    "title": "Project Leadership & Society",
+    "publisher": "Elsevier Ltd",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Project Management Journal",
-    "publisher": "Wiley-Blackwell Publishing",
+    "publisher": "Sage Publications",
     "field": "OPS&TECH",
     "abdc": "B",
     "ajg": "1",
@@ -19814,6 +19542,14 @@
     "abdc": "A*",
     "ajg": "4",
     "points": 6
+  },
+  {
+    "title": "Psychological Methods",
+    "publisher": "American Psychological Association",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
   },
   {
     "title": "Psychological Reports",
@@ -19905,7 +19641,7 @@
   },
   {
     "title": "Public Administration Quarterly",
-    "publisher": "Southern Public Administration Education Foundation Inc",
+    "publisher": "Sage Publications",
     "field": "PUB SEC",
     "abdc": "A",
     "ajg": "1",
@@ -19961,7 +19697,7 @@
   },
   {
     "title": "Public Finance and Management",
-    "publisher": "Southern Public Administration Education Foundation Inc.",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -20003,9 +19739,9 @@
     "title": "Public Money & Management",
     "publisher": "Taylor & Francis Online",
     "field": "PUB SEC",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Public Opinion Quarterly",
@@ -20082,6 +19818,14 @@
   {
     "title": "Publishing Research Quarterly",
     "publisher": "Springer International Publishing",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "Q Open: A Journal of Agricultural, Climate, Environmental, Food, Resource, and Rural Development Economics",
+    "publisher": "Oxford Academic",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -20176,6 +19920,14 @@
     "points": 0
   },
   {
+    "title": "Quality Technology and Quantitative Management",
+    "publisher": "Taylor & Francis",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Quantitative and Qualitative Analysis in Social Sciences",
     "publisher": "The York Research Database",
     "field": "ECON",
@@ -20217,7 +19969,7 @@
   },
   {
     "title": "Quarterly Journal of Experimental Psychology",
-    "publisher": "Taylor & Francis Online",
+    "publisher": "Sage Publications",
     "field": "PSYCH (GENERAL)",
     "abdc": "A",
     "ajg": "3",
@@ -20256,12 +20008,12 @@
     "points": 2
   },
   {
-    "title": "Queensland Review",
-    "publisher": "Cambridge University Press",
+    "title": "Queen Mary Journal of Intellectual Property",
+    "publisher": "Elgar Online",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Quest",
@@ -20296,10 +20048,10 @@
     "points": 4
   },
   {
-    "title": "RAE Revista de Administracao de Empresas",
-    "publisher": "Fundacao Getulio Vargas, Escola de Administracao de Empresas de Sao Paulo",
+    "title": "RAE-Revista de Administracao de Empresas",
+    "publisher": "Fundacao Getulio Vargas School of Business Administration",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -20480,6 +20232,14 @@
     "points": 4
   },
   {
+    "title": "Renewable and Sustainable Energy Reviews",
+    "publisher": "Elsevier ScienceDirect",
+    "field": "",
+    "abdc": "A",
+    "ajg": "",
+    "points": 4
+  },
+  {
     "title": "Requirements Engineering",
     "publisher": "Springer Nature",
     "field": "INFO MAN",
@@ -20494,22 +20254,6 @@
     "abdc": "C",
     "ajg": "",
     "points": 0
-  },
-  {
-    "title": "Research in Accounting in Emerging Economies",
-    "publisher": "Emerald Group Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "Research in Accounting Regulation",
-    "publisher": "Elsevier",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Research in Consumer Behavior: a research annual",
@@ -20552,20 +20296,20 @@
     "points": 0
   },
   {
-    "title": "Research in Governmental and Non-Profit Accounting",
-    "publisher": "Elsevier",
+    "title": "Research in Hospitality Management",
+    "publisher": "Taylor & Francis",
     "field": "",
-    "abdc": "B",
+    "abdc": "C",
     "ajg": "",
-    "points": 2
+    "points": 0
   },
   {
     "title": "Research in International Business and Finance",
     "publisher": "Elsevier",
     "field": "FINANCE",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Research in Occupational Stress and Well Being",
@@ -20611,17 +20355,17 @@
     "title": "Research in the Sociology of Organizations",
     "publisher": "Emerald Group Publishing",
     "field": "ORG STUD",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "3",
-    "points": 4
+    "points": 3
   },
   {
     "title": "Research in Transportation Business & Management",
     "publisher": "Elsevier",
     "field": "",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "",
-    "points": 0
+    "points": 2
   },
   {
     "title": "Research in Transportation Economics",
@@ -20659,9 +20403,9 @@
     "title": "Research-Technology Management",
     "publisher": "Taylor & Francis Online",
     "field": "INNOV",
-    "abdc": "A",
+    "abdc": "B",
     "ajg": "2",
-    "points": 3
+    "points": 2
   },
   {
     "title": "Resource and Energy Economics",
@@ -20752,12 +20496,12 @@
     "points": 1
   },
   {
-    "title": "Review of Business Information Systems",
-    "publisher": "The Clute Institute",
+    "title": "Review of Corporate Finance",
+    "publisher": "Now Publishers",
     "field": "",
-    "abdc": "C",
+    "abdc": "A",
     "ajg": "",
-    "points": 0
+    "points": 4
   },
   {
     "title": "Review of Corporate Finance Studies",
@@ -20779,9 +20523,9 @@
     "title": "Review of Development Economics",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "ECON",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Review of Development Finance",
@@ -20833,9 +20577,9 @@
   },
   {
     "title": "Review of Economics and Political Science",
-    "publisher": "Emerald",
+    "publisher": "Emerald Publishing",
     "field": "ECON",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -20907,9 +20651,9 @@
     "title": "Review of International Business and Strategy",
     "publisher": "Emerald Group Publishing",
     "field": "IB&AREA",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Review of International Economics",
@@ -20971,9 +20715,9 @@
     "title": "Review of Managerial Science",
     "publisher": "Springer Nature",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Review of Marketing and Agricultural Economics",
@@ -21136,19 +20880,19 @@
     "points": 0
   },
   {
+    "title": "Revista do CAAP",
+    "publisher": "Federal University of Minas Gerais",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Revista Espanola de Financiacion y Contabilidad",
     "publisher": "Taylor & Francis",
     "field": "ACCOUNT",
     "abdc": "",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "Revista Portuguesa de Marketing",
-    "publisher": "IPAM Lab",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
     "points": 0
   },
   {
@@ -21224,22 +20968,6 @@
     "points": 0
   },
   {
-    "title": "Risk, Decision and Policy",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
-    "title": "Risks",
-    "publisher": "MDPI",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
-  },
-  {
     "title": "Romanian Economic Business Review",
     "publisher": "Romanian-American University",
     "field": "",
@@ -21257,9 +20985,9 @@
   },
   {
     "title": "Russian Journal of Economics",
-    "publisher": "Non profit partnership “Voprosy Ekonomiki”",
+    "publisher": "Non-profit partnership \"Redaktsiya zhurnala Voprosy Ekonomiki\"",
     "field": "ECON",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -21544,14 +21272,6 @@
     "points": 4
   },
   {
-    "title": "SIAM Journal on Computing",
-    "publisher": "SIAM Publications Online",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "SIAM Journal on Financial Mathematics",
     "publisher": "Society for Industrial and Applied Mathematics",
     "field": "FINANCE",
@@ -21635,9 +21355,9 @@
     "title": "Small Enterprise Research",
     "publisher": "Taylor & Francis Online",
     "field": "ENT-SBM",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Small Group Research",
@@ -21678,14 +21398,6 @@
     "abdc": "B",
     "ajg": "1",
     "points": 1
-  },
-  {
-    "title": "Social Business: An Interdisiplinary Journal",
-    "publisher": "Westburn Publishers Ltd",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "Social Choice and Welfare",
@@ -21776,10 +21488,10 @@
     "points": 1
   },
   {
-    "title": "Social Science and Medicine",
-    "publisher": "Elsevier",
+    "title": "Social Science & Medicine",
+    "publisher": "Elsevier ScienceDirect",
     "field": "SOC SCI",
-    "abdc": "",
+    "abdc": "A",
     "ajg": "4",
     "points": 5
   },
@@ -21896,16 +21608,8 @@
     "points": 4
   },
   {
-    "title": "Sociological Methods & Research",
-    "publisher": "Sage Publications",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "Sociological Theory",
-    "publisher": "American Sociological Association",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "A",
     "ajg": "",
@@ -22025,9 +21729,9 @@
   },
   {
     "title": "South Asian Journal of Business and Management Cases",
-    "publisher": "SAGE",
+    "publisher": "Sage Publications",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -22035,9 +21739,9 @@
     "title": "South Asian Journal of Business Studies",
     "publisher": "Emerald Group Publishing",
     "field": "ETHICS-CSR-MAN",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "South Asian Journal of Human Resources Management",
@@ -22169,7 +21873,7 @@
   },
   {
     "title": "Sport Marketing Quarterly",
-    "publisher": "Fitness Information Technology, Inc.",
+    "publisher": "Sage Publications",
     "field": "SECTOR",
     "abdc": "B",
     "ajg": "1",
@@ -22187,9 +21891,9 @@
     "title": "Sport, Business and Management",
     "publisher": "Emerald Group Publishing Limited",
     "field": "SECTOR",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Sport, Education and Society",
@@ -22312,8 +22016,8 @@
     "points": 0
   },
   {
-    "title": "Statistical Journal of the International Association for Official Statistics",
-    "publisher": "IOS Press",
+    "title": "Statistical Journal of the IAOS",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "C",
     "ajg": "",
@@ -22475,9 +22179,9 @@
     "title": "Strategic Change: Briefings in Entrepreurial Finance",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "STRAT",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "2",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Strategic Entrepreneurship Journal",
@@ -22632,10 +22336,10 @@
     "points": 2
   },
   {
-    "title": "Supply Chain Forum",
+    "title": "Supply Chain Forum: An International Journal",
     "publisher": "Taylor & Francis",
     "field": "OPS&TECH",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -22665,11 +22369,11 @@
   },
   {
     "title": "Sustainability Accounting, Management and Policy Journal",
-    "publisher": "Emerald",
+    "publisher": "Emerald Publishing",
     "field": "ACCOUNT",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Sustainable Development",
@@ -22681,9 +22385,9 @@
   },
   {
     "title": "Sustainable Futures",
-    "publisher": "Elsevier",
+    "publisher": "Elsevier Ltd",
     "field": "SOC SCI",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -22840,6 +22544,14 @@
     "points": 4
   },
   {
+    "title": "Technological Sustainability",
+    "publisher": "Emerald Publishing",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Technology Analysis and Strategic Management",
     "publisher": "Taylor & Francis Online",
     "field": "STRAT",
@@ -22857,9 +22569,9 @@
   },
   {
     "title": "Technology Innovation Management Review",
-    "publisher": "Talent First Network (Carleton University)",
+    "publisher": "Carleton University",
     "field": "INNOV",
-    "abdc": "C",
+    "abdc": "",
     "ajg": "1",
     "points": 0
   },
@@ -23019,7 +22731,7 @@
     "title": "The Bottom Line",
     "publisher": "Emerald",
     "field": "INFO MAN",
-    "abdc": "",
+    "abdc": "C",
     "ajg": "1",
     "points": 0
   },
@@ -23038,6 +22750,14 @@
     "abdc": "A",
     "ajg": "",
     "points": 4
+  },
+  {
+    "title": "The CASE Journal",
+    "publisher": "Emerald Publishing",
+    "field": "ETHICS-CSR-MAN",
+    "abdc": "C",
+    "ajg": "1",
+    "points": 0
   },
   {
     "title": "The China Quarterly",
@@ -23064,22 +22784,6 @@
     "points": 2
   },
   {
-    "title": "The Computer Journal",
-    "publisher": "Oxford University Press",
-    "field": "INFO MAN",
-    "abdc": "C",
-    "ajg": "2",
-    "points": 1
-  },
-  {
-    "title": "The Consortium Journal of Hospitality and Tourism",
-    "publisher": "Tuskegee University",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "The Corporate Governance Law Review",
     "publisher": "Corporate Research Group",
     "field": "",
@@ -23099,9 +22803,9 @@
     "title": "The Economic History Review: a journal of economic and social history",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "BUS HIST & ECON HIST",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "4",
-    "points": 5
+    "points": 6
   },
   {
     "title": "The Economic Journal",
@@ -23120,28 +22824,12 @@
     "points": 3
   },
   {
-    "title": "The Economics of Transition",
-    "publisher": "Wiley-Blackwell Publishing",
-    "field": "",
-    "abdc": "A",
-    "ajg": "",
-    "points": 4
-  },
-  {
     "title": "The Electronic Journal of Statistics",
     "publisher": "The Institute of Mathematical Statistics and the Bernoulli Society",
     "field": "",
     "abdc": "A",
     "ajg": "",
     "points": 4
-  },
-  {
-    "title": "The Electronic Library",
-    "publisher": "Emerald Group Publishing Limited",
-    "field": "",
-    "abdc": "B",
-    "ajg": "",
-    "points": 2
   },
   {
     "title": "The European Accounting Review",
@@ -23267,9 +22955,9 @@
     "title": "The International Journal of Management Education",
     "publisher": "Elsevier",
     "field": "MDEV&EDU",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "The IUP Journal of Agricultural Economics",
@@ -23281,6 +22969,14 @@
   },
   {
     "title": "The IUP Journal of Applied Economics (previously ICFAI)",
+    "publisher": "IUP Publications",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
+    "title": "The IUP Journal of Applied Finance",
     "publisher": "IUP Publications",
     "field": "",
     "abdc": "C",
@@ -23321,7 +23017,7 @@
   },
   {
     "title": "The Journal of Alternative Investments",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "B",
     "ajg": "2",
@@ -23353,7 +23049,7 @@
   },
   {
     "title": "The Journal of Derivatives",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "A",
     "ajg": "2",
@@ -23416,16 +23112,16 @@
     "points": 7
   },
   {
-    "title": "The Journal of Financial Data Science",
-    "publisher": "Portfolio Management Research",
+    "title": "The Journal of Finance and Data Science",
+    "publisher": "KeAi Communications Co., Ltd.",
     "field": "FINANCE",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
+    "points": 1
   },
   {
     "title": "The Journal of Fixed Income",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "A",
     "ajg": "2",
@@ -23448,28 +23144,12 @@
     "points": 1
   },
   {
-    "title": "The Journal of High Technology Management Research",
-    "publisher": "Elsevier",
-    "field": "INNOV",
-    "abdc": "C",
-    "ajg": "2",
-    "points": 1
-  },
-  {
-    "title": "The Journal of Hospitality Financial Management",
-    "publisher": "Taylor & Francis Online",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "The Journal of Industrial Economics",
     "publisher": "Wiley-Blackwell Publishing",
     "field": "ECON",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "The Journal of International Maritime Law",
@@ -23505,7 +23185,7 @@
   },
   {
     "title": "The Journal of Portfolio Management",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "A",
     "ajg": "3",
@@ -23561,7 +23241,7 @@
   },
   {
     "title": "The Journal of Structured Finance",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "C",
     "ajg": "1",
@@ -23585,7 +23265,7 @@
   },
   {
     "title": "The Journal of Wealth Management",
-    "publisher": "Pageant Media",
+    "publisher": "S&P Global",
     "field": "FINANCE",
     "abdc": "B",
     "ajg": "1",
@@ -23613,14 +23293,6 @@
     "field": "ORG STUD",
     "abdc": "C",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "The Marketing Review",
-    "publisher": "Westburn Publishers Ltd",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
     "points": 0
   },
   {
@@ -23825,9 +23497,9 @@
   },
   {
     "title": "Theory, Culture and Society",
-    "publisher": "Sage Publications",
+    "publisher": "SAGE",
     "field": "SOC SCI",
-    "abdc": "A",
+    "abdc": "",
     "ajg": "3",
     "points": 4
   },
@@ -23888,6 +23560,14 @@
     "points": 0
   },
   {
+    "title": "TOP - Transactions in Operations Research",
+    "publisher": "Springer",
+    "field": "",
+    "abdc": "B",
+    "ajg": "",
+    "points": 2
+  },
+  {
     "title": "Tort Law Review",
     "publisher": "Thomson Reuters",
     "field": "",
@@ -23912,12 +23592,28 @@
     "points": 1
   },
   {
+    "title": "Tourism & Management Studies",
+    "publisher": "University of Algarve",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Tourism Analysis",
     "publisher": "Cognizant Communication Corporation",
     "field": "SECTOR",
     "abdc": "A",
     "ajg": "2",
     "points": 3
+  },
+  {
+    "title": "Tourism and Hospitality Management",
+    "publisher": "University of Rijeka, Faculty of Tourism and Hospitality Management",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
   },
   {
     "title": "Tourism and Hospitality Research",
@@ -23963,17 +23659,17 @@
     "title": "Tourism Management Perspectives",
     "publisher": "Elsevier",
     "field": "SECTOR",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "2",
-    "points": 3
+    "points": 4
   },
   {
     "title": "Tourism Planning & Development",
     "publisher": "Taylor & Francis Online",
     "field": "SECTOR",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "2",
-    "points": 2
+    "points": 3
   },
   {
     "title": "Tourism Recreation Research",
@@ -23984,20 +23680,12 @@
     "points": 3
   },
   {
-    "title": "Tourism Research Journal",
-    "publisher": "Mahatma Gandhi University",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Tourism Review",
     "publisher": "Emerald Group Publishing",
     "field": "SECTOR",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "1",
-    "points": 1
+    "points": 2
   },
   {
     "title": "Tourism Review International",
@@ -24019,17 +23707,9 @@
     "title": "Tourism: An International Interdisciplinary Journal",
     "publisher": "Institute for Tourism",
     "field": "SECTOR",
-    "abdc": "C",
+    "abdc": "B",
     "ajg": "1",
-    "points": 0
-  },
-  {
-    "title": "Tourismus Journal",
-    "publisher": "Lucius & Lucius Verlagsgesellschaft mbH",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
+    "points": 1
   },
   {
     "title": "Tourist Studies",
@@ -24128,14 +23808,6 @@
     "points": 2
   },
   {
-    "title": "Transportation Law Journal",
-    "publisher": "University of Denver College of Law",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Transportation Letters",
     "publisher": "Taylor & Francis Online",
     "field": "",
@@ -24201,7 +23873,7 @@
   },
   {
     "title": "Transportation Research Record",
-    "publisher": "National Academy of Sciences",
+    "publisher": "Sage Publications",
     "field": "",
     "abdc": "B",
     "ajg": "",
@@ -24211,9 +23883,9 @@
     "title": "Transportation Science",
     "publisher": "The Institute for Operations Research and the Management Sciences (INFORMS)",
     "field": "OR&MANSCI",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "Transportmetrica A: Transport Science",
@@ -24232,20 +23904,12 @@
     "points": 2
   },
   {
-    "title": "Travel and Tourism Analyst",
-    "publisher": "Economist Publications",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "Travel Behaviour and Society",
     "publisher": "Elsevier",
     "field": "",
-    "abdc": "B",
+    "abdc": "A",
     "ajg": "",
-    "points": 2
+    "points": 4
   },
   {
     "title": "Tulane Maritime Law Journal",
@@ -24270,14 +23934,6 @@
     "abdc": "B",
     "ajg": "",
     "points": 2
-  },
-  {
-    "title": "Universal Access in the Information Society",
-    "publisher": "Springer International Publishing",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
   },
   {
     "title": "Universidade de São Paulo",
@@ -24422,6 +24078,14 @@
     "abdc": "",
     "ajg": "1",
     "points": 0
+  },
+  {
+    "title": "Value in Health",
+    "publisher": "Elsevier ScienceDirect / ISPOR",
+    "field": "",
+    "abdc": "A",
+    "ajg": "",
+    "points": 4
   },
   {
     "title": "Vanderbilt Journal of Transnational Law",
@@ -24584,6 +24248,14 @@
     "points": 3
   },
   {
+    "title": "Western Australian Law Teachers' Review",
+    "publisher": "Western Australian Teachers of Law",
+    "field": "",
+    "abdc": "C",
+    "ajg": "",
+    "points": 0
+  },
+  {
     "title": "Western Economics Forum",
     "publisher": "Western Agricultural Economics Association",
     "field": "",
@@ -24643,7 +24315,7 @@
     "title": "Work, Aging and Retirement",
     "publisher": "Oxford University Press",
     "field": "HRM&EMP",
-    "abdc": "",
+    "abdc": "B",
     "ajg": "2",
     "points": 2
   },
@@ -24675,9 +24347,9 @@
     "title": "World Development",
     "publisher": "Elsevier",
     "field": "SOC SCI",
-    "abdc": "A",
+    "abdc": "A*",
     "ajg": "3",
-    "points": 4
+    "points": 5
   },
   {
     "title": "World Economics",
@@ -24712,16 +24384,8 @@
     "points": 1
   },
   {
-    "title": "World Policy Journal",
-    "publisher": "Duke University Press",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
     "title": "World Politics",
-    "publisher": "Cambridge University Press",
+    "publisher": "Johns Hopkins University Press",
     "field": "",
     "abdc": "A",
     "ajg": "",
@@ -24762,22 +24426,6 @@
   {
     "title": "World Trade Review",
     "publisher": "Cambridge University Press",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "World Transport Policy and Practice",
-    "publisher": "Eco-Logica Ltd",
-    "field": "",
-    "abdc": "C",
-    "ajg": "",
-    "points": 0
-  },
-  {
-    "title": "World Wide Web: Internet and Web Information Systems",
-    "publisher": "Springer International Publishing",
     "field": "",
     "abdc": "C",
     "ajg": "",

@@ -77,7 +77,7 @@ def clean(val):
 
 def load_abdc():
     """Load ABDC journal list -> dict keyed by normalized title."""
-    wb = openpyxl.load_workbook(DATA_DIR / "ABDC-JQL-2022.xlsx", read_only=True)
+    wb = openpyxl.load_workbook(DATA_DIR / "ABDC-2025.xlsx", read_only=True)
     ws = wb.active
     journals = {}
     for row in ws.iter_rows(min_row=2, values_only=True):
@@ -86,7 +86,8 @@ def load_abdc():
             continue
         title = clean(title_raw)
         publisher = clean(row[1]) if row[1] else ""
-        rating = clean(row[6]) if row[6] else ""
+        # 2025 file has trailing spaces on some ratings — strip them
+        rating = clean(row[6]).strip() if row[6] else ""
         key = normalize(title)
         journals[key] = {
             "title": title,

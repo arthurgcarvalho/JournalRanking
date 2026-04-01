@@ -4,8 +4,8 @@ A web application for looking up academic journal rankings (ABDC, AJG) and calcu
 
 ## Features
 
-- **Journal Search** — Search 3,100+ journals with fuzzy matching that handles partial names, abbreviations, and minor spelling differences
-- **Rankings Display** — View ABDC (2022) and AJG (2024) ratings for each journal
+- **Journal Search** — Search 3,064 journals with fuzzy matching that handles partial names, abbreviations, and minor spelling differences
+- **Rankings Display** — View ABDC (2025) and AJG (2024) ratings for each journal
 - **FSB Points Calculator** — Automatically calculates workload-policy scholarship points based on the ABDC/AJG rating combination
 - **Working List** — Add multiple journals, enter paper counts, and track cumulative points with a live grand total
 
@@ -35,7 +35,7 @@ A web application for looking up academic journal rankings (ABDC, AJG) and calcu
 
 ```
 ├── Data/
-│   ├── ABDC-JQL-2022.xlsx          # ABDC Journal Quality List 2022
+│   ├── ABDC-2025.xlsx              # ABDC Journal Quality List 2025
 │   ├── AJG.xlsx                    # AJG Academic Journal Guide 2024
 │   ├── FSB workload point system.xlsx  # FSB points lookup table
 │   └── Workload policy.txt         # Policy description
