@@ -233,15 +233,17 @@
         },
 
         highlightTitle(title, query) {
-            if (!query) return this.esc(title);
-            // Highlight each query word in the title
-            const words = query.split(/\s+/).filter(Boolean);
-            let result = this.esc(title);
-            for (const w of words) {
-                const regex = new RegExp(`(${this.escRegex(w)})`, 'gi');
-                result = result.replace(regex, '<mark>$1</mark>');
-            }
-            return result;
+            const words = query.split(/\s+/).filter(Boolean)
+                .sort((a, b) => b.length - a.length);
+            if (!words.length) return this.esc(title);
+
+            // Match the original text so highlighting cannot split HTML entities
+            // or match markup inserted for an earlier query word.
+            const regex = new RegExp(`(${words.map(w => this.escRegex(w)).join('|')})`, 'gi');
+            return title.split(regex).map((part, i) => {
+                const escaped = this.esc(part);
+                return i % 2 ? `<mark>${escaped}</mark>` : escaped;
+            }).join('');
         },
 
         esc(s) {
